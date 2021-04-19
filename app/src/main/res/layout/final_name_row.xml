@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:background="@color/dark_grey"
+    android:layout_width="match_parent"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:layout_height="40dp">
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:background="@drawable/final_name_row_bg">
+        <androidx.appcompat.widget.AppCompatTextView
+            android:textColor="@color/light_grey"
+            android:id="@+id/hub_name"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:textSize="15dp"
+            android:paddingTop="6dp"
+            android:paddingBottom="6dp"
+            android:gravity="center_vertical|start"
+            android:text=""/>
+        <ImageView
+            android:id="@+id/new_indicator"
+            android:paddingTop="4dp"
+            android:layout_width="0dp"
+            android:layout_height="48dp"
+            android:layout_weight=".4"
+            android:layout_gravity="right|center_vertical"
+            android:contentDescription="TODO"
+            android:src="@mipmap/new_indicator_foreground" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            app:srcCompat="@drawable/ic_baseline_keyboard_arrow_right_24"/>
+    </androidx.appcompat.widget.LinearLayoutCompat>
+</LinearLayout>

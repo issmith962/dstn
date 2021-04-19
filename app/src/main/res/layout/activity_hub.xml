@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_layout"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:background="@color/black">
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/fab_margin_horizontal"
+        android:layout_marginBottom="@dimen/fab_margin_vertical"
+        app:srcCompat="@drawable/ic_baseline_add_24" />
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <include
+            layout="@layout/app_bar_main"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:background="@color/dark_grey"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_height="wrap_content">
+
+            <projects.isaacsmith.dstn.ui.utils.CustomSpinner
+                android:id="@+id/date_spinner"
+                style="@style/Widget.AppCompat.Spinner"
+                android:layout_margin="10dp"
+                android:layout_marginLeft="15dp"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:layout_height="?attr/dropdownListPreferredItemHeight"
+                android:dropDownVerticalOffset="?attr/dropdownListPreferredItemHeight"
+                android:background="@drawable/spinner_bg"
+                android:popupBackground="@color/dark_grey"
+                android:stateListAnimator="@drawable/spinner_sla"
+                android:popupElevation="3dp" />
+
+<!--            <projects.isaacsmith.dstn.ui.utils.CustomSpinner-->
+<!--                android:id="@+id/year_spinner"-->
+<!--                style="@style/Widget.AppCompat.Spinner"-->
+<!--                android:layout_margin="10dp"-->
+<!--                android:layout_marginRight="15dp"-->
+<!--                android:layout_width="0dp"-->
+<!--                android:layout_weight="1"-->
+<!--                android:layout_height="?attr/dropdownListPreferredItemHeight"-->
+<!--                android:dropDownVerticalOffset="?attr/dropdownListPreferredItemHeight"-->
+<!--                android:background="@drawable/spinner_bg"-->
+<!--                android:popupBackground="@color/dark_grey"-->
+<!--                android:stateListAnimator="@drawable/spinner_sla"-->
+<!--                android:popupElevation="3dp" />-->
+
+            <Button
+                android:id="@+id/hub_date_button"
+                android:layout_margin="10dp"
+                android:layout_marginRight="15dp"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                app:backgroundTint="@null"
+                android:background="@drawable/date_button_bg"
+                android:onClick="showDatePickerDialog"
+                android:text="@string/custom_date"
+                android:textColor="@color/medium_grey"
+                android:layout_height="wrap_content" />
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+        <com.google.android.flexbox.FlexboxLayout
+            android:paddingBottom="20dp"
+            app:flexDirection="row"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            app:justifyContent="space_between"
+            android:background="@color/dark_grey"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <androidx.appcompat.widget.LinearLayoutCompat
+                android:orientation="vertical"
+                android:gravity="center"
+                android:layout_marginLeft="16dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:textColor="@color/white"
+                    android:id="@+id/client_total"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="40dp"
+                    android:text="@string/client_total" />
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:textColor="@color/medium_grey"
+                    android:id="@+id/client_total_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/client_total_label" />
+            </androidx.appcompat.widget.LinearLayoutCompat>
+            <androidx.appcompat.widget.LinearLayoutCompat
+                android:orientation="vertical"
+                android:gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:textColor="@color/white"
+                    android:id="@+id/profit_total"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="40dp"
+                    android:text="@string/profit_total" />
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:textColor="@color/medium_grey"
+                    android:id="@+id/profit_total_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/profit_total_label" />
+            </androidx.appcompat.widget.LinearLayoutCompat>
+            <androidx.appcompat.widget.LinearLayoutCompat
+                android:layout_marginRight="16dp"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:textColor="@color/white"
+                    android:id="@+id/racquet_total"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="40dp"
+                    android:text="@string/racquet_total"
+                    />
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:textColor="@color/medium_grey"
+                    android:id="@+id/racquet_total_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/racquet_total_label" />
+            </androidx.appcompat.widget.LinearLayoutCompat>
+        </com.google.android.flexbox.FlexboxLayout>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/hub_recycler"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"/>
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+ </RelativeLayout>
+
+
+
+

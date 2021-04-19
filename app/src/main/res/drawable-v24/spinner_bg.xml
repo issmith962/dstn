@@ -1,0 +1,13 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:exitFadeDuration="@android:integer/config_mediumAnimTime">
+    <item android:state_pressed="true" android:drawable="@color/dark_grey" />
+    <item android:state_selected="true" android:drawable="@color/dark_grey" />
+    <item>
+        <inset android:insetLeft="-1dp" android:insetRight="-1dp">
+            <shape android:shape="rectangle">
+                <stroke android:width="0.5dp" android:color="@color/medium_grey" />
+                <solid android:color="@color/dark_grey" />
+            </shape>
+        </inset>
+    </item>
+</selector>

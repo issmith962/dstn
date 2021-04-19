@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/black"
+    tools:context=".ui.AddRacquetActivity">
+    <include
+        layout="@layout/app_bar_main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:orientation="vertical"
+        android:background="@color/dark_grey">
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:orientation="vertical">
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/client_name_text_input_layout"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="20dp"
+                android:layout_width="wrap_content"
+                android:textColorHint="@color/medium_grey"
+                app:hintTextAppearance="@style/TextAppearance.App.TextInputLayout"
+                android:layout_height="60dp">
+                <androidx.appcompat.widget.AppCompatEditText
+                    android:id="@+id/client_name_edit_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:backgroundTint="@color/medium_grey_25"
+                    android:ems="10"
+                    android:hint="@string/client_name"
+                    android:lines="1"
+                    android:maxLength="25"
+                    android:maxLines="1"
+                    android:textColor="@color/light_grey"
+                    android:textColorHint="@color/light_grey" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <androidx.appcompat.widget.LinearLayoutCompat
+                android:layout_marginTop="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <Button
+                    android:id="@+id/date_button"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_marginRight="15dp"
+                    android:layout_height="wrap_content"
+                    app:backgroundTint="@null"
+                    android:background="@drawable/date_button_bg"
+                    android:onClick="showDatePickerDialog"
+                    android:text="@string/pick_date"
+                    android:textColor="@color/medium_grey" />
+
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:layout_marginLeft="10dp"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:id="@+id/date_text"
+                    android:textColor="@color/light_grey"
+                    android:layout_height="wrap_content"
+                    android:textSize="18sp"
+                    android:text="Mon, Jan 4, 2021"/>
+            </androidx.appcompat.widget.LinearLayoutCompat>>
+            <androidx.appcompat.widget.LinearLayoutCompat
+                android:layout_marginTop="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/string_brand_text_input_layout"
+                    android:layout_marginRight="10dp"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:textColorHint="@color/medium_grey"
+                    app:hintTextAppearance="@style/TextAppearance.App.TextInputLayout"
+                    android:layout_height="60dp">
+                    <androidx.appcompat.widget.AppCompatEditText
+                        android:id="@+id/string_brand_edit_text"
+                        android:backgroundTint="@color/medium_grey_25"
+                        android:maxLines="1"
+                        android:lines="1"
+                        android:maxLength="25"
+                        android:textColorHint="@color/light_grey"
+                        android:textColor="@color/light_grey"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:ems="10"
+                        android:hint="@string/string_brand"/>
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/string_type_text_input_layout"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="1"
+                    android:layout_width="wrap_content"
+                    android:textColorHint="@color/medium_grey"
+                    app:hintTextAppearance="@style/TextAppearance.App.TextInputLayout"
+                    android:layout_height="60dp">
+                    <androidx.appcompat.widget.AppCompatEditText
+                        android:id="@+id/string_type_edit_text"
+                        android:backgroundTint="@color/medium_grey_25"
+                        android:maxLines="1"
+                        android:lines="1"
+                        android:maxLength="25"
+                        android:textColorHint="@color/light_grey"
+                        android:textColor="@color/light_grey"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:ems="10"
+                        android:hint="@string/string_type"/>
+                </com.google.android.material.textfield.TextInputLayout>
+            </androidx.appcompat.widget.LinearLayoutCompat>
+
+            <androidx.appcompat.widget.LinearLayoutCompat
+                android:layout_marginTop="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/tension_text_input_layout"
+                    android:layout_marginRight="10dp"
+                    android:layout_width="0dp"
+                    android:layout_weight="7"
+                    android:textColorHint="@color/medium_grey"
+                    app:hintTextAppearance="@style/TextAppearance.App.TextInputLayout"
+                    android:layout_height="60dp">
+                    <androidx.appcompat.widget.AppCompatEditText
+                        android:id="@+id/tension_edit_text"
+                        android:backgroundTint="@color/medium_grey_25"
+                        android:maxLines="1"
+                        android:lines="1"
+                        android:maxLength="25"
+                        android:textColorHint="@color/light_grey"
+                        android:textColor="@color/light_grey"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:ems="10"
+                        android:hint="@string/tension"/>
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <RadioGroup
+                    android:layout_gravity="bottom"
+                    android:layout_marginBottom="15dp"
+                    android:checkedButton="@+id/lb_unit"
+                    android:id="@+id/units"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="24dp"
+                    android:background="@drawable/unit_line"
+                    android:orientation="horizontal">
+
+                    <RadioButton
+                        android:id="@+id/lb_unit"
+                        android:background="@drawable/toggle_widget_background"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:button="@null"
+                        android:gravity="center"
+                        android:text="@string/lb"
+                        android:textColor="@drawable/unit_color_list" />
+
+                    <RadioButton
+                        android:id="@+id/kg_unit"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:background="@drawable/toggle_widget_background"
+                        android:button="@null"
+                        android:gravity="center"
+                        android:text="@string/kg"
+                        android:textColor="@drawable/unit_color_list" />
+                </RadioGroup>
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/quantity_text_input_layout"
+                    android:layout_weight="3"
+                    android:layout_width="0dp"
+                    android:layout_marginLeft="20dp"
+                    android:textColorHint="@color/medium_grey"
+                    app:hintTextAppearance="@style/TextAppearance.App.TextInputLayout"
+                    android:layout_height="60dp">
+                    <androidx.appcompat.widget.AppCompatEditText
+                        android:id="@+id/quantity_edit_text"
+                        android:backgroundTint="@color/medium_grey_25"
+                        android:maxLines="1"
+                        android:lines="1"
+                        android:maxLength="25"
+                        android:textColorHint="@color/light_grey"
+                        android:textColor="@color/light_grey"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:ems="10"
+                        android:hint="@string/quantity"/>
+                </com.google.android.material.textfield.TextInputLayout>
+            </androidx.appcompat.widget.LinearLayoutCompat>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_marginTop="20dp"
+                android:id="@+id/notes_text_input_layout"
+                android:layout_width="match_parent"
+                android:textColorHint="@color/medium_grey"
+                app:hintTextAppearance="@style/TextAppearance.App.TextInputLayout"
+                android:layout_height="wrap_content">
+                <androidx.appcompat.widget.AppCompatEditText
+                    android:id="@+id/notes_edit_text"
+                    android:backgroundTint="@color/medium_grey_25"
+                    android:textColorHint="@color/light_grey"
+                    android:textColor="@color/light_grey"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="textMultiLine"
+                    android:minLines="1"
+                    android:maxLines="8"
+                    android:gravity="top|start"
+                    android:ems="10"
+                    android:hint="@string/notes"/>
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <androidx.appcompat.widget.LinearLayoutCompat
+                android:layout_marginTop="20dp"
+                android:layout_gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <Button
+                    android:id="@+id/save_button"
+                    android:layout_marginRight="15dp"
+                    android:layout_width="140dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/save"
+                    android:textColor="@color/light_grey"
+                    app:backgroundTint="@color/red" />
+
+                <Button
+                    android:id="@+id/discard_button"
+                    android:layout_marginLeft="15dp"
+                    android:layout_width="140dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/discard"
+                    android:textColor="@color/light_grey"
+                    app:backgroundTint="@color/red" />
+
+            </androidx.appcompat.widget.LinearLayoutCompat>
+        </androidx.appcompat.widget.LinearLayoutCompat>
+    </androidx.appcompat.widget.LinearLayoutCompat>
+</androidx.appcompat.widget.LinearLayoutCompat>

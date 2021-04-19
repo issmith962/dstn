@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin_vertical">36dp</dimen>
+    <dimen name="fab_margin_horizontal">54dp</dimen>
+    <dimen name="margin_medium">4dp</dimen>
+</resources>
