@@ -35,5 +35,6 @@
     <string name="custom_date">Custom Date</string>
     <string name="dstn">dstn</string>
     <string name="search_hint">Search clients</string>
-    <string name="search_title">Search</string>
+    <string name="search_title">Repeat Racquet for Client</string>
+    <string name="export">Export</string>
 </resources>
