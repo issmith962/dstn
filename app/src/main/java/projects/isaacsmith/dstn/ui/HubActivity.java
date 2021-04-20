@@ -307,7 +307,6 @@ public class HubActivity extends AppCompatActivity implements ListItemClickListe
 
         public NameRecyclerViewAdapter(ArrayList<Section> formattedRacquets, ListItemClickListener onClickListener) {
             this.items = formattedRacquets;
-
             this.mOnClickListener = onClickListener;
         }
 

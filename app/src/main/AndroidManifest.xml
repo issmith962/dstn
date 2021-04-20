@@ -15,18 +15,30 @@
             android:theme="@style/Theme.Dstn.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name=".ui.AddRacquetActivity"
             android:label="@string/add_racquet"
-            android:theme="@style/Theme.Dstn.NoActionBar"/>
+            android:launchMode="singleTask"
+            android:theme="@style/Theme.Dstn.NoActionBar">
+            <meta-data android:name="android.app.default_searchable"
+                android:value=".ui.SearchActivity"/>
+        </activity>
         <activity
             android:name=".ui.EditRacquetActivity"
             android:label="@string/edit_racquet"
             android:theme="@style/Theme.Dstn.NoActionBar"/>
+        <activity android:name=".ui.SearchActivity"
+            android:label="@string/search_title"
+            android:launchMode="singleTop"
+            android:theme="@style/Theme.Dstn.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH"/>
+            </intent-filter>
+            <meta-data android:name="android.app.searchable"
+                android:resource="@xml/searchable"/>
+        </activity>
     </application>
-
 </manifest>

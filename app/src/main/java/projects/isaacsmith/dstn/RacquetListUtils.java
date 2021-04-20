@@ -8,6 +8,7 @@ import java.lang.reflect.Array;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Comparator;
 
 import projects.isaacsmith.dstn.model.Racquet;
 import projects.isaacsmith.dstn.model.Section;
@@ -54,6 +55,19 @@ public class RacquetListUtils {
         }
         return matchingRacquets;
     }
+
+    @RequiresApi(api = Build.VERSION_CODES.N)
+    public static ArrayList<Racquet> sortAlphabetically(ArrayList<Racquet> racquets) {
+        ArrayList<Racquet> sortedRacquets = new ArrayList<>(racquets);
+        Collections.sort(sortedRacquets, new Comparator<Racquet>() {
+            @Override
+            public int compare(Racquet racquet, Racquet t1) {
+                return racquet.clientName.compareTo(t1.clientName);
+            }
+        });
+        return sortedRacquets;
+    }
+
     public static String[] racquetsToNames(ArrayList<Racquet> racquets) {
         String[] suggestions = new String[racquets.size()];
         for (int i = 0; i < racquets.size(); i++) {

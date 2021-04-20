@@ -2,11 +2,16 @@ package projects.isaacsmith.dstn.ui;
 
 import android.app.Activity;
 import android.app.DatePickerDialog;
+import android.app.SearchManager;
 import android.content.Context;
+import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;
 import android.text.Editable;
 import android.text.TextWatcher;
+import android.view.Menu;
+import android.view.MenuInflater;
+import android.view.MenuItem;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.inputmethod.InputMethodManager;
@@ -17,6 +22,7 @@ import android.widget.DatePicker;
 import android.widget.EditText;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
+import android.widget.SearchView;
 import android.widget.TextView;
 
 import androidx.annotation.RequiresApi;
@@ -128,6 +134,7 @@ public class AddRacquetActivity extends AppCompatActivity {
                     }
                 }
         );
+
         findViewById(android.R.id.content).setFocusableInTouchMode(true);
         findViewById(android.R.id.content).clearFocus();
     }
@@ -189,5 +196,70 @@ public class AddRacquetActivity extends AppCompatActivity {
         datePicker.updateDate(date.getYear(), date.getMonthValue(), date.getDayOfMonth());
         datePicker.getDatePicker().setMaxDate(System.currentTimeMillis());
         datePicker.show();
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        MenuInflater inflater = getMenuInflater();
+        inflater.inflate(R.menu.options_menu, menu);
+
+        SearchManager searchManager = (SearchManager) getSystemService(Context.SEARCH_SERVICE);
+        SearchView searchView = (SearchView) menu.findItem(R.id.search).getActionView();
+        searchView.setSearchableInfo(searchManager.getSearchableInfo(getComponentName()));
+        searchView.setIconifiedByDefault(false);
+
+        return true;
+    }
+
+    @Override
+    protected void onNewIntent(Intent intent) {
+        super.onNewIntent(intent);
+
+        Bundle bundle = intent.getExtras();
+        if (bundle != null) {
+            String origClientName = bundle.getString("clientName");
+            if (origClientName != null) {
+                clientNameEditText.setText(origClientName);
+            }
+
+            String origStringBrand = bundle.getString("stringBrand");
+            if (origStringBrand != null) {
+                stringBrandEditText.setText(origStringBrand);
+            }
+
+            String origStringType = bundle.getString("stringType");
+            if (origStringType != null) {
+                stringTypeEditText.setText(origStringType);
+            }
+
+            String origTension = bundle.getString("tension");
+            if (origTension != null) {
+                tensionEditText.setText(origTension);
+            }
+
+            String origQuantity = bundle.getString("quantity");
+            if (origQuantity != null) {
+                quantityEditText.setText(origQuantity);
+            }
+
+            String origNotes = bundle.getString("notes");
+            if (origNotes != null) {
+                notesEditText.setText(origNotes);
+            }
+
+            String origUnit = bundle.getString("unit");
+            if (origUnit != null) {
+                if (origUnit.equals("lb")) {
+                    ((RadioButton)findViewById(R.id.lb_unit)).setChecked(true);
+                } else if (origUnit.equals("kg")) {
+                    ((RadioButton)findViewById(R.id.kg_unit)).setChecked(true);
+                }
+            }
+        }
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        return true;
     }
 }
