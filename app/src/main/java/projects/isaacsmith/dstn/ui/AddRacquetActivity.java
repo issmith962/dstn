@@ -205,7 +205,7 @@ public class AddRacquetActivity extends AppCompatActivity {
     @Override
     protected void onNewIntent(Intent intent) {
         super.onNewIntent(intent);
-
+        getCurrentFocus().clearFocus();
         Bundle bundle = intent.getExtras();
         if (bundle != null) {
             String origClientName = bundle.getString("clientName");
