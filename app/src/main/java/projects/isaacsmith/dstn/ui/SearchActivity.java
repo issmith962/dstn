@@ -17,6 +17,9 @@ import androidx.appcompat.widget.Toolbar;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import org.apache.commons.lang3.text.WordUtils;
+
+import java.time.LocalDate;
 import java.util.ArrayList;
 
 import projects.isaacsmith.dstn.R;
@@ -82,6 +85,7 @@ public class SearchActivity extends AppCompatActivity implements ListItemClickLi
 
     private class SearchViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
         private TextView nameView;
+        private TextView dateView;
         private SearchRecyclerAdapter adapter;
 
         public SearchViewHolder(@NonNull View itemView, SearchRecyclerAdapter adapter) {
@@ -89,9 +93,13 @@ public class SearchActivity extends AppCompatActivity implements ListItemClickLi
             itemView.setOnClickListener(this);
             this.adapter = adapter;
             nameView = itemView.findViewById(R.id.search_name);
+            dateView = itemView.findViewById(R.id.search_date);
         }
         public void bindName(String name) {
             nameView.setText(name);
+        }
+        public void bindDate(String date) {
+            dateView.setText(date);
         }
 
         @Override
@@ -134,9 +142,15 @@ public class SearchActivity extends AppCompatActivity implements ListItemClickLi
             }
         }
 
+        @RequiresApi(api = Build.VERSION_CODES.O)
         @Override
         public void onBindViewHolder(@NonNull SearchViewHolder holder, int position) {
             ((SearchViewHolder) holder).bindName(racquets.get(position).clientName);
+            LocalDate date = racquets.get(position).date;
+            String displayDate = WordUtils.capitalize(date.getDayOfWeek().toString().substring(0, 3).toLowerCase()) + ", " +
+                    WordUtils.capitalize(date.getMonth().toString().substring(0, 3).toLowerCase()) +
+                    " " + date.getDayOfMonth() + ", " + date.getYear();
+            ((SearchViewHolder) holder).bindDate(displayDate);
         }
 
         @Override
