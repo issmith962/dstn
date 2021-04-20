@@ -67,6 +67,7 @@
         </androidx.appcompat.widget.LinearLayoutCompat>
 
         <com.google.android.flexbox.FlexboxLayout
+            android:paddingTop="10dp"
             android:paddingBottom="20dp"
             app:flexDirection="row"
             android:layout_marginLeft="10dp"
@@ -82,6 +83,10 @@
                 android:layout_marginLeft="16dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content">
+                <View
+                    android:layout_width="30dp"
+                    android:layout_height="3dp"
+                    android:background="@color/red"/>
                 <androidx.appcompat.widget.AppCompatTextView
                     android:textColor="@color/white"
                     android:id="@+id/client_total"
@@ -101,6 +106,10 @@
                 android:gravity="center"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content">
+                <View
+                    android:layout_width="30dp"
+                    android:layout_height="3dp"
+                    android:background="@color/red"/>
                 <androidx.appcompat.widget.AppCompatTextView
                     android:textColor="@color/white"
                     android:id="@+id/profit_total"
@@ -121,14 +130,17 @@
                 android:gravity="center"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content">
+                <View
+                    android:layout_width="30dp"
+                    android:layout_height="3dp"
+                    android:background="@color/red"/>
                 <androidx.appcompat.widget.AppCompatTextView
                     android:textColor="@color/white"
                     android:id="@+id/racquet_total"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textSize="40dp"
-                    android:text="@string/racquet_total"
-                    />
+                    android:text="@string/racquet_total" />
                 <androidx.appcompat.widget.AppCompatTextView
                     android:textColor="@color/medium_grey"
                     android:id="@+id/racquet_total_label"
