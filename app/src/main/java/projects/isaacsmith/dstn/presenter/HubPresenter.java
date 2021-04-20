@@ -4,6 +4,8 @@ import android.os.Build;
 
 import androidx.annotation.RequiresApi;
 
+import java.io.File;
+import java.io.InputStream;
 import java.util.ArrayList;
 
 import projects.isaacsmith.dstn.mock_backend.MockServices;
@@ -27,5 +29,9 @@ public class HubPresenter {
     }
     public int getProfitTotal() {
         return mMockServices.getProfitTotal();
+    }
+    @RequiresApi(api = Build.VERSION_CODES.O)
+    public void addRacquetsFromFile(InputStream input) {
+        mMockServices.addRacquetsFromFile(input);
     }
 }

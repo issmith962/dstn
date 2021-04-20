@@ -1,0 +1,980 @@
+2021,4,20,Wendall Bullers,Solinco,Tour Bite,49,lb,1,Tighten end strings on both mains and crosses
+2021,4,10,Norby Poulson,Solinco,Tour Bite,45,lb,1,Tighten end strings on both mains and crosses
+2021,4,15,Marve McMorran,Solinco,Tour Bite,55,lb,1,Tighten end strings on both mains and crosses
+2021,4,2,Vaughn Chadbourn,Yonex,Revolution,56,lb,1,Power pads
+2021,4,6,Marissa Kordt,Solinco,Revolution,50,kg,1,2 knots
+2021,4,8,Adolf de Werk,Wilson,Revolution,48,lb,1,Around the world string pattern
+2021,4,4,Nadya Bucky,Solinco,Revolution,56,kg,1,Power pads
+2021,4,5,Idell Coche,Yonex,Revolution,50,kg,1,Tighten end strings on both mains and crosses
+2021,4,13,Stevy Wison,Solinco,Revolution,49,kg,1,Tighten end strings on both mains and crosses
+2021,4,6,Marten Salterne,Solinco,Revolution,53,lb,1,Power pads
+2021,4,3,Gordie Leverentz,Solinco,Revolution,55,lb,1,Power pads
+2021,4,15,Deane Hammill,Head,Revolution,52,lb,1,Tighten end strings on both mains and crosses
+2021,4,15,Rusty Hairs,Yonex,Hawk,47,lb,1,Power pads
+2021,4,4,Gussie Scarffe,Solinco,Tour Bite,58,lb,1,Power pads
+2021,4,3,Husein Fairbrace,Solinco,Revolution,48,kg,1,Power pads
+2021,4,8,Ian Drivers,Head,Revolution,48,kg,1,Around the world string pattern
+2021,4,3,Anthia Crichton,Yonex,Tour Bite,53,kg,1,Around the world string pattern
+2021,4,6,Brody Garvagh,Solinco,Hawk,50,lb,1,Power pads
+2021,4,1,Hagen McKomb,Head,Hawk,53,kg,1,Tighten end strings on both mains and crosses
+2021,4,12,Selle Ragbourn,Solinco,Revolution,54,lb,1,Around the world string pattern
+2021,4,18,Edd Gheeraert,Solinco,ALU Power,50,lb,1,Tighten end strings on both mains and crosses
+2021,4,7,Lauren Jeroch,Yonex,Revolution,54,lb,1,Around the world string pattern
+2021,4,9,Evey Shellshear,Solinco,Revolution,56,kg,1,Around the world string pattern
+2021,4,20,Elihu Brelsford,Luxilon,Tour Bite,52,kg,1,Power pads
+2021,4,3,Max Rymell,Solinco,Revolution,48,kg,1,Around the world string pattern
+2021,4,12,Chauncey Twelvetrees,Yonex,Tour Bite,45,lb,1,Tighten end strings on both mains and crosses
+2021,4,1,Goran Blaiklock,Luxilon,Revolution,47,kg,1,Tighten end strings on both mains and crosses
+2021,4,7,Dione Denison,Luxilon,Revolution,47,lb,1,Power pads
+2021,4,12,Arch Samuels,Yonex,Hawk,56,kg,1,Tighten end strings on both mains and crosses
+2021,4,12,Peggy St Louis,Solinco,Revolution,46,lb,1,Power pads
+2021,4,18,Launce Riha,Solinco,Revolution,45,kg,1,Power pads
+2021,4,7,Luz Berntssen,Solinco,Revolution,57,lb,1,4 knots
+2021,4,15,Bradley Yearns,Head,ALU Power,49,lb,1,Power pads
+2021,4,14,Melosa De Carlo,Yonex,Revolution,58,kg,1,Tighten end strings on both mains and crosses
+2021,4,5,Netti Creavan,Solinco,Revolution,45,lb,1,Power pads
+2021,4,5,Anne-corinne Blaschke,Solinco,Revolution,53,kg,1,Power pads
+2021,4,9,Elana Castleton,Yonex,ALU Power,50,kg,1,Power pads
+2021,4,1,Kaile Parkes,Solinco,Revolution,56,lb,1,2 knots
+2021,4,15,Cordie Nisius,Head,Revolution,54,kg,1,2 knots
+2021,4,2,Antonin Dulanty,Solinco,Revolution,54,lb,1,Power pads
+2021,4,11,Turner Visick,Head,Revolution,49,lb,1,Around the world string pattern
+2021,4,6,Rachele Littley,Solinco,Revolution,54,lb,1,2 knots
+2021,4,3,Finlay Haggerston,Solinco,Tour Bite,54,lb,1,Tighten end strings on both mains and crosses
+2021,4,8,Blake Browne,Head,Revolution,51,lb,1,Tighten end strings on both mains and crosses
+2021,4,4,Harlene Pues,Wilson,Hawk,56,lb,1,Power pads
+2021,4,12,Franciska Levermore,Yonex,Revolution,55,lb,1,Tighten end strings on both mains and crosses
+2021,4,1,Abran Mandal,Head,Tour Bite,54,kg,1,Power pads
+2021,4,1,Gerladina Egginton,Wilson,Revolution,56,lb,1,Tighten end strings on both mains and crosses
+2021,4,3,Maurise Folger,Solinco,Revolution,55,kg,1,Power pads
+2021,4,12,Kris Davis,Solinco,Revolution,58,kg,1,Power pads
+2021,4,13,Moina Hansana,Yonex,Tour Bite,53,kg,1,Power pads
+2021,4,10,Artus McGiven,Solinco,ALU Power,47,lb,1,Tighten end strings on both mains and crosses
+2021,4,2,Lida Addicote,Yonex,Revolution,52,kg,1,2 knots
+2021,4,15,Zarah Sillwood,Solinco,ALU Power,48,kg,1,Tighten end strings on both mains and crosses
+2021,4,8,Cirstoforo Matthews,Solinco,Tour Bite,53,kg,1,4 knots
+2021,4,16,Franni Gillaspy,Solinco,Revolution,49,lb,1,Around the world string pattern
+2021,4,7,Goran Neil,Head,Revolution,52,lb,1,Tighten end strings on both mains and crosses
+2021,4,10,Carie Bodesson,Solinco,Tour Bite,58,kg,1,Tighten end strings on both mains and crosses
+2021,4,14,Vlad Dunbobin,Solinco,Revolution,57,lb,1,2 knots
+2021,4,6,Nertie Carverhill,Solinco,Hawk,56,lb,1,Around the world string pattern
+2021,4,14,Hayden Harmes,Yonex,Revolution,49,kg,1,Around the world string pattern
+2021,4,8,Kathryn Cattemull,Head,NXT,55,kg,1,Tighten end strings on both mains and crosses
+2021,4,5,Maribelle Domenichini,Solinco,Hawk,56,lb,1,Power pads
+2021,4,4,Loralee Hugh,Yonex,Revolution,50,lb,1,Power pads
+2021,4,1,Haywood Gradley,Yonex,Revolution,45,lb,1,Around the world string pattern
+2021,4,1,Bail Ausiello,Head,Revolution,51,lb,1,Tighten end strings on both mains and crosses
+2021,4,20,Belicia Thraves,Solinco,Revolution,54,lb,1,Power pads
+2021,4,17,Chet Sanbrooke,Yonex,Revolution,45,lb,1,Tighten end strings on both mains and crosses
+2021,4,6,Eugenius Roback,Solinco,Revolution,47,lb,1,Tighten end strings on both mains and crosses
+2021,4,15,Anthia Tippin,Solinco,Revolution,58,lb,1,Tighten end strings on both mains and crosses
+2021,4,10,Ninnette Knoller,Head,ALU Power,52,kg,1,Tighten end strings on both mains and crosses
+2021,4,19,Lissi Skinner,Solinco,Tour Bite,50,lb,1,Tighten end strings on both mains and crosses
+2021,4,8,Mara McCurtain,Yonex,ALU Power,46,lb,1,Power pads
+2021,4,19,Saundra Fido,Solinco,Tour Bite,53,kg,1,Power pads
+2021,4,1,Marquita Nardi,Solinco,Revolution,48,lb,1,Tighten end strings on both mains and crosses
+2021,4,18,Vickie Swanston,Solinco,Hawk,55,lb,1,Power pads
+2021,4,3,Floyd Abram,Head,Revolution,52,kg,1,Tighten end strings on both mains and crosses
+2021,4,17,Lamar Normanvill,Solinco,Revolution,55,lb,1,Tighten end strings on both mains and crosses
+2021,4,10,Grissel Bothie,Yonex,Tour Bite,52,kg,1,Tighten end strings on both mains and crosses
+2021,4,11,Kingston Mehmet,Yonex,Hawk,58,kg,1,Around the world string pattern
+2021,3,13,Denni McMickan,Solinco,Tour Bite,52,kg,1,Power pads
+2021,1,3,Maurise Bernardotte,Yonex,Hawk,53,kg,1,Tighten end strings on both mains and crosses
+2021,3,28,Lewie Hullins,Solinco,ALU Power,56,lb,1,Tighten end strings on both mains and crosses
+2021,1,2,Gannie Mc Meekan,Yonex,Revolution,45,kg,1,Power pads
+2021,2,17,Fonz Scanlan,Yonex,Tour Bite,45,kg,1,Tighten end strings on both mains and crosses
+2021,2,10,Ellie Antrobus,Solinco,Tour Bite,57,lb,1,Power pads
+2021,3,17,Hugo Doveston,Head,Revolution,50,kg,1,Tighten end strings on both mains and crosses
+2021,2,15,Sigismond Wrankling,Yonex,Revolution,55,lb,1,Around the world string pattern
+2021,2,1,Darn Liversidge,Solinco,Revolution,52,lb,1,Around the world string pattern
+2021,1,24,Hart O'Flaherty,Yonex,Revolution,56,lb,1,Power pads
+2021,2,8,Freda Mc Menamin,Solinco,Hawk,58,kg,1,Power pads
+2021,1,3,Maggie Godfroy,Solinco,ALU Power,47,kg,1,Tighten end strings on both mains and crosses
+2021,3,23,Annnora Ashbrook,Wilson,Tour Bite,50,lb,1,Tighten end strings on both mains and crosses
+2021,2,10,Angelina Seefus,Yonex,Tour Bite,47,lb,1,Around the world string pattern
+2021,2,25,Yankee Saben,Solinco,Tour Bite,47,kg,1,Tighten end strings on both mains and crosses
+2021,2,4,Ross Carren,Solinco,Revolution,49,kg,1,4 knots
+2021,3,28,Marylin Shrimplin,Solinco,Revolution,51,kg,1,Power pads
+2021,2,2,Flossy Fernley,Yonex,Tour Bite,47,lb,1,Power pads
+2021,2,10,Reube Critten,Head,Hawk,58,lb,1,2 knots
+2021,3,4,Nissie Gary,Solinco,Revolution,55,kg,1,Around the world string pattern
+2021,3,22,Dennie Finden,Head,Revolution,58,lb,1,Tighten end strings on both mains and crosses
+2021,3,21,Faustine Crassweller,Luxilon,Revolution,55,lb,1,Tighten end strings on both mains and crosses
+2021,2,12,Reinhard Edworthye,Solinco,RPM Power,45,kg,1,Tighten end strings on both mains and crosses
+2021,3,26,Alika Daudray,Solinco,Revolution,58,kg,1,Tighten end strings on both mains and crosses
+2021,3,21,Tadio Olyfat,Head,Hawk,56,kg,1,Power pads
+2021,3,24,Jaymie Rawcliffe,Solinco,ALU Power,57,lb,1,Tighten end strings on both mains and crosses
+2021,1,3,Alyce Abela,Solinco,Revolution,53,lb,1,4 knots
+2021,2,8,Giffer Sandle,Head,Tour Bite,56,lb,1,Tighten end strings on both mains and crosses
+2021,3,22,Teresita Currum,Babolat,Tour Bite,46,kg,1,Power pads
+2021,2,1,Cesar Tremathick,Solinco,Revolution,49,lb,1,Tighten end strings on both mains and crosses
+2021,3,8,Benito Lippini,Luxilon,Tour Bite,45,kg,1,Tighten end strings on both mains and crosses
+2021,1,2,Shantee Fackrell,Yonex,Tour Bite,57,lb,1,Power pads
+2021,1,21,Hunt de Broke,Solinco,Revolution,49,kg,1,Tighten end strings on both mains and crosses
+2021,2,8,Mill Berendsen,Head,Revolution,51,lb,1,Tighten end strings on both mains and crosses
+2021,2,17,Shawnee Haley,Yonex,Revolution,55,kg,1,Power pads
+2021,1,18,Adeline Hanmore,Yonex,ALU Power,49,kg,1,Tighten end strings on both mains and crosses
+2021,2,25,Arin Nelmes,Solinco,Revolution,57,kg,1,Tighten end strings on both mains and crosses
+2021,1,1,Free Bonnesen,Solinco,Hawk,56,kg,1,Power pads
+2021,3,3,Sharron Danielsson,Solinco,Tour Bite,55,kg,1,Power pads
+2021,2,26,Dominique Fessler,Solinco,Revolution,56,lb,1,Tighten end strings on both mains and crosses
+2021,2,22,Joana Dickings,Solinco,Revolution,46,lb,1,Tighten end strings on both mains and crosses
+2021,3,15,Gunilla McLucky,Solinco,Revolution,49,lb,1,Tighten end strings on both mains and crosses
+2021,2,26,Rossy Goranov,Solinco,Tour Bite,55,kg,1,Tighten end strings on both mains and crosses
+2021,3,18,Rita Tennison,Solinco,Hawk,53,lb,1,Tighten end strings on both mains and crosses
+2021,2,9,Dulce Doldon,Solinco,Revolution,56,lb,1,Tighten end strings on both mains and crosses
+2021,2,13,Bryana Clynter,Solinco,Revolution,48,kg,1,Tighten end strings on both mains and crosses
+2021,2,27,Consolata Saby,Solinco,Revolution,57,kg,1,4 knots
+2021,1,3,Antonie Geist,Head,Revolution,56,lb,1,Tighten end strings on both mains and crosses
+2021,3,21,Virgil Dymock,Solinco,ALU Power,55,lb,1,Tighten end strings on both mains and crosses
+2021,2,16,Rouvin Freegard,Solinco,Hawk,46,kg,1,Tighten end strings on both mains and crosses
+2021,3,26,Lucian Paule,Head,Tour Bite,48,kg,1,Power pads
+2021,3,22,Veronika Wootton,Yonex,Revolution,54,kg,1,Tighten end strings on both mains and crosses
+2021,1,27,Mozes Dymick,Solinco,RPM Power,50,lb,1,Power pads
+2021,3,24,Fannie Jacobssen,Solinco,Revolution,50,lb,1,Tighten end strings on both mains and crosses
+2021,1,26,Rasla Jacobsz,Yonex,RPM Power,46,kg,1,Tighten end strings on both mains and crosses
+2021,3,25,Vale Doerffer,Solinco,Revolution,51,lb,1,Around the world string pattern
+2021,2,17,Joey Moryson,Solinco,Revolution,52,kg,1,2 knots
+2021,2,28,Kimberlyn Flannery,Solinco,Tour Bite,56,lb,1,Power pads
+2021,1,3,Angelina Joselin,Solinco,Hawk,45,lb,1,Around the world string pattern
+2021,3,13,Tobye Massot,Solinco,Revolution,55,lb,1,Power pads
+2021,2,12,Chad Chasmor,Babolat,ALU Power,46,kg,1,Tighten end strings on both mains and crosses
+2021,1,15,Arleta Ickovits,Head,Tour Bite,51,kg,1,Tighten end strings on both mains and crosses
+2021,3,26,Fredrick Poetz,Head,Hawk,45,kg,1,Tighten end strings on both mains and crosses
+2021,1,12,Serena Reoch,Solinco,Revolution,53,lb,1,Power pads
+2021,2,25,Dalenna Gurnell,Yonex,Revolution,53,kg,1,Tighten end strings on both mains and crosses
+2021,3,23,Terry Halloway,Yonex,ALU Power,51,kg,1,Power pads
+2021,2,17,Malvina Rabl,Solinco,Revolution,53,kg,1,Power pads
+2021,3,8,Carena Croydon,Head,Tour Bite,46,kg,1,Tighten end strings on both mains and crosses
+2021,3,1,Latashia Glancy,Yonex,Hawk,50,lb,1,Tighten end strings on both mains and crosses
+2021,1,28,Stefan Durgan,Solinco,Revolution,53,lb,1,4 knots
+2021,1,18,Agnola Campbell,Yonex,Tour Bite,54,lb,1,Around the world string pattern
+2021,3,10,Karlan Faughey,Yonex,Tour Bite,58,kg,1,Power pads
+2021,1,16,Johannes Augustin,Head,Tour Bite,56,kg,1,4 knots
+2021,1,6,Germain Firsby,Solinco,Revolution,49,kg,1,Tighten end strings on both mains and crosses
+2021,1,18,Jasen Pitrollo,Wilson,Revolution,57,lb,1,4 knots
+2021,1,15,Rachel Paulou,Solinco,Tour Bite,49,lb,1,Tighten end strings on both mains and crosses
+2021,1,16,Carla McMichael,Head,ALU Power,50,kg,1,Power pads
+2021,1,3,Lorain Inkle,Solinco,Revolution,58,lb,1,Tighten end strings on both mains and crosses
+2021,1,27,Lyle Mosedale,Head,Tour Bite,52,lb,1,2 knots
+2021,2,20,Chauncey Raw,Head,Hawk,48,kg,1,Tighten end strings on both mains and crosses
+2021,3,27,Porter Bitten,Yonex,Revolution,54,kg,1,Tighten end strings on both mains and crosses
+2021,3,24,Broddie Bearcock,Solinco,Tour Bite,53,lb,1,Tighten end strings on both mains and crosses
+2021,1,17,Sara-ann Cressy,Wilson,Tour Bite,46,lb,1,2 knots
+2021,1,24,Abbott Fosberry,Yonex,Revolution,49,kg,1,Tighten end strings on both mains and crosses
+2021,3,22,Isidora Eades,Wilson,Revolution,58,kg,1,Around the world string pattern
+2021,1,4,Dennet Naldrett,Solinco,ALU Power,53,lb,1,4 knots
+2021,2,7,Teddy Skerm,Luxilon,Revolution,54,kg,1,Power pads
+2021,2,12,Keely Lambrechts,Yonex,Revolution,52,kg,1,4 knots
+2021,2,6,Hastie Lyddon,Solinco,ALU Power,46,kg,1,Power pads
+2021,1,1,Jocelyn Lampe,Head,Revolution,46,lb,1,2 knots
+2021,1,16,Blisse Tinker,Solinco,Revolution,56,kg,1,Tighten end strings on both mains and crosses
+2021,2,18,Winnah Soall,Solinco,Tour Bite,48,lb,1,Tighten end strings on both mains and crosses
+2021,1,22,Arielle Vaughan,Solinco,Tour Bite,49,kg,1,4 knots
+2021,1,27,Gardner Smorthit,Head,Tour Bite,56,lb,1,Power pads
+2021,1,15,Joelly Lambertson,Solinco,Tour Bite,55,lb,1,Power pads
+2021,2,3,Knox Tewkesbury,Yonex,Hawk,45,lb,1,Around the world string pattern
+2021,2,8,Bethany Synder,Luxilon,Revolution,58,kg,1,Tighten end strings on both mains and crosses
+2021,1,1,Ruthie Copley,Wilson,Revolution,46,lb,1,Tighten end strings on both mains and crosses
+2021,1,9,Robinia Corselles,Head,Tour Bite,51,kg,1,Around the world string pattern
+2021,3,9,Gennifer Rao,Solinco,Tour Bite,57,lb,1,2 knots
+2021,1,21,Fawne Bredes,Head,Hawk,47,lb,1,Tighten end strings on both mains and crosses
+2021,1,6,Natalya Carver,Solinco,Revolution,49,kg,1,4 knots
+2021,1,4,Alana McTrustie,Solinco,Tour Bite,53,kg,1,Tighten end strings on both mains and crosses
+2021,3,25,Brietta Elderfield,Solinco,Tour Bite,46,lb,1,Tighten end strings on both mains and crosses
+2021,1,5,Claire Venour,Solinco,Hawk,45,kg,1,Tighten end strings on both mains and crosses
+2021,1,9,Roslyn Reed,Luxilon,Tour Bite,50,kg,1,Power pads
+2021,1,14,Oriana Daugherty,Yonex,Revolution,56,lb,1,Tighten end strings on both mains and crosses
+2021,2,23,Alessandra Naisbet,Solinco,Hawk,46,kg,1,Tighten end strings on both mains and crosses
+2021,2,12,Crystie De Francesco,Solinco,RPM Power,46,lb,1,Around the world string pattern
+2021,3,10,Caresse Freddi,Yonex,Hawk,54,kg,1,4 knots
+2021,2,2,Chiquia Bartos,Solinco,Hawk,53,kg,1,Tighten end strings on both mains and crosses
+2021,2,25,Giorgio Caltera,Head,Tour Bite,48,lb,1,Tighten end strings on both mains and crosses
+2021,2,25,Bertie Pau,Solinco,Revolution,49,lb,1,Power pads
+2021,3,12,Daron Wadham,Wilson,Tour Bite,56,lb,1,Tighten end strings on both mains and crosses
+2021,2,3,Shawna Dearnaley,Solinco,Tour Bite,51,kg,1,Power pads
+2021,2,1,Tommi MacMeekan,Head,Revolution,47,lb,1,Tighten end strings on both mains and crosses
+2021,2,13,Merle Youdell,Solinco,Revolution,49,kg,1,Around the world string pattern
+2021,2,4,Mayer Reiling,Yonex,Tour Bite,50,kg,1,4 knots
+2021,3,10,Jake Kivits,Solinco,Tour Bite,55,kg,1,Around the world string pattern
+2021,1,18,Sheilakathryn Dowthwaite,Solinco,Revolution,47,lb,1,Tighten end strings on both mains and crosses
+2021,2,27,Nanice McAllister,Yonex,Revolution,58,lb,1,Tighten end strings on both mains and crosses
+2021,2,5,Chickie Grube,Luxilon,Revolution,46,lb,1,Around the world string pattern
+2021,1,1,Bernardine Toffaloni,Luxilon,Hawk,50,kg,1,Tighten end strings on both mains and crosses
+2021,2,20,Rosene Fackney,Solinco,Hawk,46,kg,1,Power pads
+2021,2,15,Alikee Lawry,Luxilon,Tour Bite,49,lb,1,Tighten end strings on both mains and crosses
+2021,2,5,Aldis Cornock,Solinco,Revolution,51,kg,1,4 knots
+2021,1,4,Shelby Boissier,Solinco,Revolution,54,lb,1,Tighten end strings on both mains and crosses
+2021,1,18,Wilfred Annwyl,Solinco,Revolution,45,kg,1,Tighten end strings on both mains and crosses
+2021,1,8,Frances Stormonth,Head,Revolution,47,lb,1,Around the world string pattern
+2021,2,9,Bibbye Force,Solinco,Revolution,51,lb,1,Power pads
+2021,3,13,Addi Moir,Babolat,Revolution,50,kg,1,2 knots
+2021,2,16,Rebekah D'Almeida,Luxilon,Tour Bite,54,kg,1,Tighten end strings on both mains and crosses
+2021,1,3,Packston Merkel,Head,Tour Bite,45,lb,1,Power pads
+2021,2,2,Kareem Ludwikiewicz,Solinco,Revolution,45,kg,1,Tighten end strings on both mains and crosses
+2021,3,1,Skippie Batt,Luxilon,RPM Power,47,lb,1,Tighten end strings on both mains and crosses
+2021,2,10,Alden Hupka,Solinco,Tour Bite,47,lb,1,Tighten end strings on both mains and crosses
+2021,3,23,Jo-anne Williamson,Solinco,RPM Power,51,lb,1,Tighten end strings on both mains and crosses
+2021,3,13,Celisse Fleet,Head,Revolution,55,lb,1,Tighten end strings on both mains and crosses
+2021,1,24,Nonna Willoughey,Yonex,Revolution,55,kg,1,Tighten end strings on both mains and crosses
+2021,3,14,Hildegaard Drache,Solinco,RPM Blast,51,lb,1,Around the world string pattern
+2021,3,22,Leia Tate,Luxilon,Hawk,45,kg,1,Tighten end strings on both mains and crosses
+2021,1,23,Miltie Renshell,Yonex,ALU Power,47,lb,1,Tighten end strings on both mains and crosses
+2021,1,18,Duane Tebbitt,Yonex,Revolution,54,lb,1,Power pads
+2021,3,9,Hugues Snuggs,Solinco,Revolution,52,kg,1,Power pads
+2021,1,9,Cherrita Moye,Solinco,Revolution,56,kg,1,Power pads
+2021,3,14,Juliana D'Arrigo,Solinco,Hawk,45,lb,1,Power pads
+2021,1,17,Cornall Trustie,Head,Tour Bite,51,kg,1,Tighten end strings on both mains and crosses
+2021,3,6,Kariotta Faulconbridge,Solinco,Tour Bite,47,lb,1,Power pads
+2021,1,28,Zarla Hoodless,Solinco,Revolution,56,kg,1,Tighten end strings on both mains and crosses
+2021,2,19,Franklyn Clemmen,Yonex,Revolution,47,kg,1,Power pads
+2021,2,5,Herminia Raithbie,Yonex,Revolution,52,lb,2,Power pads
+2021,1,6,Oralle Bruinemann,Solinco,Revolution,50,kg,2,Power pads
+2021,3,20,Cheryl Mathiasen,Yonex,Revolution,55,lb,4,Tighten end strings on both mains and crosses
+2021,2,20,Effie De Cristoforo,Solinco,Revolution,54,lb,1,Tighten end strings on both mains and crosses
+2021,1,2,Deana Marchant,Yonex,Revolution,57,kg,1,Power pads
+2021,3,10,Arlan Taberner,Solinco,ALU Power,57,lb,3,Power pads
+2021,1,19,Sonnie Emmott,Head,Revolution,47,lb,2,Power pads
+2021,1,18,Miller Irons,Yonex,Tour Bite,46,lb,2,Power pads
+2021,3,22,Eolande Yann,Solinco,Hawk,55,lb,4,Tighten end strings on both mains and crosses
+2021,2,20,Michaella Temprell,Head,Tour Bite,56,kg,3,Power pads
+2021,3,13,Erma Croall,Solinco,Tour Bite,46,kg,2,4 knots
+2021,3,3,Phineas Dewer,Solinco,Revolution,52,lb,2,Tighten end strings on both mains and crosses
+2021,2,19,Darcey Kroon,Solinco,Revolution,45,lb,1,Power pads
+2021,2,6,Starr O' Hanvey,Yonex,ALU Power,55,kg,1,Tighten end strings on both mains and crosses
+2021,3,22,Rhett Patton,Wilson,Revolution,50,lb,2,Tighten end strings on both mains and crosses
+2021,3,5,Tymon McNair,Solinco,Revolution,58,lb,1,Tighten end strings on both mains and crosses
+2021,3,27,Cosimo Marfell,Luxilon,RPM Power,55,lb,1,Around the world string pattern
+2021,1,12,Cornie Randlesome,Luxilon,Tour Bite,52,kg,4,Tighten end strings on both mains and crosses
+2021,1,21,Murray Macieiczyk,Solinco,RPM Power,52,lb,3,2 knots
+2021,2,14,Walden Sharnock,Solinco,Revolution,45,kg,3,2 knots
+2021,3,23,Franky Ayce,Head,Revolution,50,kg,3,Around the world string pattern
+2021,3,5,Tiphany Delucia,Solinco,Revolution,50,kg,1,Tighten end strings on both mains and crosses
+2021,3,17,Ferrell Hassen,Head,Revolution,58,lb,3,Tighten end strings on both mains and crosses
+2021,2,7,Blondy Maryska,Solinco,ALU Power,54,kg,4,4 knots
+2021,2,21,Geri Triggle,Yonex,Revolution,55,lb,4,2 knots
+2021,1,8,Xena Watsham,Solinco,Revolution,45,lb,3,Tighten end strings on both mains and crosses
+2021,2,1,Allistir Shovelton,Yonex,Revolution,54,lb,1,Around the world string pattern
+2021,1,7,Elinor Lugden,Babolat,Revolution,52,kg,2,Tighten end strings on both mains and crosses
+2021,2,24,Micki Amor,Yonex,Revolution,57,kg,2,Around the world string pattern
+2021,3,5,Lizbeth Championnet,Yonex,RPM Power,47,kg,2,Tighten end strings on both mains and crosses
+2021,1,10,Elke Nutley,Yonex,Revolution,45,kg,4,2 knots
+2021,2,9,Stephie Docherty,Solinco,NXT,58,kg,3,4 knots
+2021,3,12,Adore Titcomb,Solinco,Revolution,56,lb,1,Power pads
+2021,2,6,Phil Fisby,Wilson,Revolution,54,kg,2,Around the world string pattern
+2021,3,19,Joscelin Bogie,Head,Revolution,51,lb,4,Tighten end strings on both mains and crosses
+2021,3,2,Federico Wigfield,Solinco,Revolution,52,lb,4,Tighten end strings on both mains and crosses
+2021,2,17,Elyssa Steiner,Solinco,Hawk,52,kg,4,Around the world string pattern
+2021,1,19,Noak Padbery,Solinco,Revolution,48,lb,4,Tighten end strings on both mains and crosses
+2021,3,23,Dita Santer,Solinco,Revolution,47,kg,2,Tighten end strings on both mains and crosses
+2021,1,2,Rici Conklin,Yonex,Tour Bite,55,kg,1,Around the world string pattern
+2021,1,20,Julita Twinning,Solinco,Tour Bite,55,kg,4,Tighten end strings on both mains and crosses
+2021,2,11,Carolee Cressor,Head,RPM Power,57,kg,2,Power pads
+2021,1,5,Fancy Brian,Babolat,Tour Bite,58,kg,1,2 knots
+2021,1,24,Xavier Valens-Smith,Yonex,Revolution,47,kg,1,Tighten end strings on both mains and crosses
+2021,3,18,Emalia Readmire,Solinco,Revolution,46,kg,1,Power pads
+2021,3,3,Kerr Nussgen,Solinco,Revolution,54,lb,3,Tighten end strings on both mains and crosses
+2021,2,9,Fancie Rowes,Solinco,Tour Bite,53,kg,2,Power pads
+2021,1,21,Burgess McKeney,Wilson,Tour Bite,46,lb,2,Tighten end strings on both mains and crosses
+2021,1,11,Humfrid Gilbanks,Head,Revolution,55,lb,1,4 knots
+2021,1,21,Deonne Krolik,Head,Revolution,51,lb,4,Around the world string pattern
+2019,4,5,Kass Karolczyk,Yonex,Revolution,51,lb,1,Tighten end strings on both mains and crosses
+2019,6,20,Ellswerth Jansie,Head,Revolution,47,kg,1,Tighten end strings on both mains and crosses
+2020,7,8,Tait Peete,Head,ALU Power,52,lb,1,Tighten end strings on both mains and crosses
+2020,2,27,Garrett McGlaud,Solinco,Revolution,57,kg,1,Around the world string pattern
+2019,3,25,Melantha Jeanequin,Solinco,RPM Power,45,kg,1,Power pads
+2019,4,18,Esta Schrinel,Solinco,Hawk,46,lb,1,Tighten end strings on both mains and crosses
+2019,2,7,Darcee Loveredge,Luxilon,Revolution,48,kg,1,Tighten end strings on both mains and crosses
+2019,1,5,Korella Wraith,Yonex,Revolution,55,kg,1,Around the world string pattern
+2019,1,26,Cynde Shevlan,Solinco,Revolution,51,kg,1,Power pads
+2019,4,14,Isidoro Escudier,Solinco,Revolution,56,lb,1,Tighten end strings on both mains and crosses
+2019,3,22,Jdavie Dyke,Solinco,Tour Bite,50,lb,1,Tighten end strings on both mains and crosses
+2019,11,7,Masha McMorran,Luxilon,Hawk,46,kg,1,Power pads
+2020,1,25,Thaxter Claypool,Yonex,Tour Bite,45,lb,1,Tighten end strings on both mains and crosses
+2020,6,11,Allistir Davidman,Yonex,Hawk,52,kg,1,Tighten end strings on both mains and crosses
+2019,2,11,Lari Wayon,Head,ALU Power,50,kg,1,Tighten end strings on both mains and crosses
+2019,1,1,Olin Chessell,Solinco,Tour Bite,55,kg,1,Tighten end strings on both mains and crosses
+2019,2,27,Madelina Campa,Head,Tour Bite,52,lb,1,Power pads
+2020,9,15,Rock Lamond,Solinco,Tour Bite,48,kg,1,4 knots
+2019,11,17,Herta Du Barry,Yonex,Revolution,49,kg,1,Power pads
+2020,3,17,Anni Sturt,Solinco,Revolution,52,kg,1,Around the world string pattern
+2020,9,18,Kirk Bleibaum,Solinco,Tour Bite,48,lb,1,Around the world string pattern
+2019,7,15,Mitchell Fullwood,Solinco,Revolution,51,lb,1,Power pads
+2020,1,28,Lissy Billing,Solinco,Revolution,49,kg,1,Power pads
+2020,11,21,Atalanta Rylands,Solinco,Revolution,52,kg,1,Tighten end strings on both mains and crosses
+2019,4,18,Avivah Walicki,Luxilon,Tour Bite,55,lb,1,Tighten end strings on both mains and crosses
+2019,5,10,Rivkah Crowch,Yonex,Revolution,55,lb,1,Tighten end strings on both mains and crosses
+2020,3,16,Daniella Bicker,Luxilon,Revolution,48,lb,1,Tighten end strings on both mains and crosses
+2019,8,23,Sibel Withrington,Yonex,Revolution,45,lb,1,Tighten end strings on both mains and crosses
+2019,4,8,Tomasine Gasken,Yonex,Revolution,58,kg,1,Tighten end strings on both mains and crosses
+2019,6,13,Kelbee Gaisford,Solinco,Tour Bite,56,lb,1,Tighten end strings on both mains and crosses
+2019,2,4,Ibbie Bland,Solinco,Tour Bite,46,kg,1,Tighten end strings on both mains and crosses
+2020,10,14,Aleece De la Eglise,Solinco,Tour Bite,58,lb,1,Power pads
+2019,9,26,Lina Twallin,Yonex,Revolution,47,lb,1,Power pads
+2019,1,17,Ash Shakeshaft,Luxilon,Tour Bite,48,kg,1,Power pads
+2020,3,4,Darice Sanchiz,Solinco,Revolution,47,lb,1,Tighten end strings on both mains and crosses
+2020,12,9,Jennie Banbrick,Yonex,Revolution,57,kg,1,Power pads
+2019,3,22,Jacki DeSousa,Solinco,Hawk,58,kg,1,Tighten end strings on both mains and crosses
+2020,3,11,Natalya Davidou,Yonex,Revolution,49,kg,1,Tighten end strings on both mains and crosses
+2020,6,14,Kittie Bramhall,Babolat,Revolution,49,lb,1,Tighten end strings on both mains and crosses
+2019,1,9,Alexia Blaxeland,Yonex,Hawk,53,lb,1,Tighten end strings on both mains and crosses
+2019,5,13,Rhianon Williscroft,Yonex,Revolution,51,lb,1,Tighten end strings on both mains and crosses
+2020,4,26,Hermina Grayne,Solinco,Hawk,54,lb,1,Tighten end strings on both mains and crosses
+2019,7,3,Sauncho Naptin,Head,Revolution,48,kg,1,Tighten end strings on both mains and crosses
+2020,10,26,Florie Kloska,Solinco,Revolution,45,kg,1,Power pads
+2019,2,21,Ravi Aspin,Solinco,Hawk,46,kg,1,Tighten end strings on both mains and crosses
+2020,2,20,Francyne Berthelet,Yonex,Hawk,48,kg,1,Tighten end strings on both mains and crosses
+2019,3,14,Helenka Rosenwasser,Yonex,RPM Power,56,kg,1,Tighten end strings on both mains and crosses
+2019,11,22,Oralla Forgan,Yonex,Revolution,54,lb,1,Power pads
+2020,11,20,Skippie Gepson,Solinco,Revolution,58,lb,1,Around the world string pattern
+2019,1,17,Vikki Mease,Solinco,Revolution,57,lb,1,4 knots
+2020,7,6,Pen Clemonts,Wilson,Tour Bite,45,kg,1,Power pads
+2019,8,28,Henderson Aronowicz,Solinco,Revolution,48,lb,1,Power pads
+2019,12,26,Ezri Staniforth,Yonex,Revolution,48,lb,1,Power pads
+2019,7,10,Emogene Kyffin,Solinco,NXT,53,lb,1,2 knots
+2020,8,1,Inglebert Learie,Head,Tour Bite,58,lb,1,Power pads
+2020,10,19,Roch Treweek,Yonex,Revolution,56,lb,1,Tighten end strings on both mains and crosses
+2019,3,15,Roselin Bretland,Solinco,Tour Bite,56,lb,1,Tighten end strings on both mains and crosses
+2019,1,7,Meara Amber,Solinco,ALU Power,57,kg,1,Power pads
+2019,4,1,Dawn Dregan,Luxilon,Revolution,47,kg,1,Around the world string pattern
+2020,11,10,Glenna Hussy,Babolat,Hawk,48,kg,1,Tighten end strings on both mains and crosses
+2020,11,20,Gaspar Gricewood,Solinco,ALU Power,56,lb,1,Around the world string pattern
+2020,5,6,Teri Brimblecomb,Head,Revolution,48,lb,1,Tighten end strings on both mains and crosses
+2020,4,17,Waylin Loyd,Solinco,Revolution,45,kg,1,Tighten end strings on both mains and crosses
+2020,9,18,Kimberlyn Toller,Solinco,Revolution,56,lb,1,Tighten end strings on both mains and crosses
+2020,3,21,Sashenka Itzakson,Yonex,Revolution,58,kg,1,Tighten end strings on both mains and crosses
+2019,12,3,Tedie Antoniutti,Solinco,Revolution,46,lb,1,Tighten end strings on both mains and crosses
+2019,12,25,Eran Russen,Yonex,ALU Power,48,lb,1,Tighten end strings on both mains and crosses
+2019,9,12,Webb Coventon,Babolat,Tour Bite,53,kg,1,Around the world string pattern
+2020,9,21,Kip Adamson,Head,NXT,45,kg,1,Power pads
+2019,9,2,Sile Truder,Solinco,Revolution,56,lb,1,Power pads
+2020,12,2,Edsel Cowdroy,Solinco,Tour Bite,50,kg,1,Tighten end strings on both mains and crosses
+2019,4,16,Mathian Tothacot,Yonex,Revolution,58,kg,1,Tighten end strings on both mains and crosses
+2019,2,8,Vincenz Jeans,Solinco,Tour Bite,48,lb,1,Tighten end strings on both mains and crosses
+2019,10,21,Reinaldo Shannon,Solinco,Revolution,57,lb,1,Tighten end strings on both mains and crosses
+2019,1,4,Celestia Voelker,Solinco,RPM Blast,46,kg,1,Tighten end strings on both mains and crosses
+2020,4,19,Anneliese Mayoral,Yonex,ALU Power,54,kg,1,Tighten end strings on both mains and crosses
+2020,4,4,Robbyn Solley,Yonex,Revolution,53,lb,1,Tighten end strings on both mains and crosses
+2020,11,13,Bailey Draysey,Yonex,Revolution,50,lb,1,Power pads
+2019,5,3,Benedicta Siggs,Luxilon,Tour Bite,47,kg,1,Around the world string pattern
+2019,4,14,Boy Abbison,Yonex,Revolution,52,kg,1,Power pads
+2019,5,25,Ethelyn Smewin,Solinco,Tour Bite,55,kg,1,Around the world string pattern
+2020,12,6,Jodie Firman,Yonex,Revolution,57,lb,1,Tighten end strings on both mains and crosses
+2020,5,26,Isidor Reaper,Yonex,Tour Bite,46,kg,1,Tighten end strings on both mains and crosses
+2020,8,19,Glyn Treleven,Solinco,Revolution,48,lb,1,Tighten end strings on both mains and crosses
+2019,2,10,Gabrila Bliven,Solinco,Tour Bite,52,kg,1,Tighten end strings on both mains and crosses
+2019,1,15,Sidney McCaighey,Solinco,Tour Bite,55,kg,1,Tighten end strings on both mains and crosses
+2019,4,15,Pamela Verrier,Yonex,Hawk,53,kg,1,Tighten end strings on both mains and crosses
+2019,6,23,Timofei Habens,Solinco,Revolution,50,kg,1,4 knots
+2020,12,4,Pru Cestard,Solinco,Revolution,46,kg,1,Around the world string pattern
+2019,5,6,Estele Vedishchev,Luxilon,RPM Blast,48,lb,1,Tighten end strings on both mains and crosses
+2020,11,3,Warden Sandeland,Solinco,Tour Bite,51,kg,1,Tighten end strings on both mains and crosses
+2020,6,25,Melantha Donegan,Yonex,Revolution,57,lb,1,Tighten end strings on both mains and crosses
+2019,12,19,Jasun Auguste,Head,Revolution,48,lb,1,Tighten end strings on both mains and crosses
+2019,3,22,Brew Melling,Solinco,Tour Bite,57,lb,1,Tighten end strings on both mains and crosses
+2019,12,8,Madel Wastall,Solinco,Hawk,58,lb,1,Power pads
+2019,4,4,Alleyn Titmarsh,Babolat,ALU Power,48,lb,1,Power pads
+2019,9,17,Elmore Kneaphsey,Solinco,Tour Bite,46,kg,1,Tighten end strings on both mains and crosses
+2020,12,23,Ev Gorman,Solinco,Tour Bite,46,lb,1,Tighten end strings on both mains and crosses
+2020,4,17,Lev Escoffier,Babolat,Revolution,57,lb,1,Around the world string pattern
+2019,5,20,Tessi Shipman,Solinco,Revolution,51,lb,1,Power pads
+2019,2,19,Hazel McKinstry,Solinco,Tour Bite,47,kg,1,Tighten end strings on both mains and crosses
+2019,12,23,Tommie Carayol,Solinco,Hawk,45,lb,1,2 knots
+2020,7,20,Kriste Barczynski,Solinco,Revolution,49,kg,1,Tighten end strings on both mains and crosses
+2020,1,15,Lorne Duce,Yonex,Tour Bite,52,kg,1,Tighten end strings on both mains and crosses
+2020,2,27,Electra Harken,Solinco,Tour Bite,51,lb,1,Power pads
+2019,7,23,Isacco Jindacek,Head,Revolution,51,lb,1,Around the world string pattern
+2020,6,28,Isidor Gahan,Solinco,ALU Power,49,lb,1,Tighten end strings on both mains and crosses
+2020,3,6,Reeta Burlingame,Solinco,Hawk,47,kg,1,4 knots
+2019,3,16,Shanta Boseley,Yonex,Revolution,52,lb,1,Tighten end strings on both mains and crosses
+2019,2,21,Rudyard Cargo,Solinco,Hawk,55,lb,1,Tighten end strings on both mains and crosses
+2020,3,17,Frank Greville,Solinco,Revolution,52,lb,1,Tighten end strings on both mains and crosses
+2019,3,17,Gerrie Witter,Solinco,Tour Bite,49,lb,1,Tighten end strings on both mains and crosses
+2019,6,26,Julee Chittock,Solinco,Tour Bite,58,kg,1,Power pads
+2019,4,21,Toddie Lindgren,Yonex,ALU Power,58,kg,1,Tighten end strings on both mains and crosses
+2020,1,20,Quill Maddaford,Solinco,Revolution,51,lb,1,Around the world string pattern
+2020,7,9,Stanley Rochewell,Solinco,Revolution,49,kg,1,Power pads
+2020,11,26,Joellyn Edgars,Solinco,Tour Bite,48,kg,1,Tighten end strings on both mains and crosses
+2019,3,19,Brandea Losel,Solinco,Tour Bite,55,lb,1,Around the world string pattern
+2019,3,20,Marieann Tierny,Head,Revolution,49,kg,1,Tighten end strings on both mains and crosses
+2019,11,23,Bertie Tebbs,Solinco,Hawk,45,lb,1,Tighten end strings on both mains and crosses
+2019,12,7,Bunni Tudgay,Solinco,Hawk,56,lb,1,Tighten end strings on both mains and crosses
+2020,8,25,Any Farahar,Solinco,Hawk,57,kg,1,Tighten end strings on both mains and crosses
+2020,1,23,Burty Gaunter,Solinco,Tour Bite,52,lb,1,Tighten end strings on both mains and crosses
+2020,5,20,Kari Riddiough,Head,RPM Blast,48,kg,1,Power pads
+2020,7,26,Lurette Cawthorne,Head,NXT,54,lb,1,Tighten end strings on both mains and crosses
+2019,7,10,Cherianne Wield,Luxilon,RPM Blast,52,lb,1,Tighten end strings on both mains and crosses
+2020,9,3,Hildagarde McQuirter,Solinco,Tour Bite,48,lb,1,Power pads
+2020,7,23,Ethyl Browning,Solinco,Revolution,51,kg,1,Around the world string pattern
+2019,5,27,Dru Winfred,Solinco,Revolution,51,lb,1,Around the world string pattern
+2019,6,14,Manda Meeks,Luxilon,Hawk,52,kg,1,Tighten end strings on both mains and crosses
+2020,3,13,Niel Crannach,Solinco,Hawk,46,kg,1,Tighten end strings on both mains and crosses
+2020,7,13,Berti Eakle,Solinco,Hawk,49,kg,1,Tighten end strings on both mains and crosses
+2020,11,23,Ingemar Tuma,Head,Revolution,56,kg,1,Tighten end strings on both mains and crosses
+2019,3,10,Cate Eede,Solinco,Revolution,53,kg,1,Tighten end strings on both mains and crosses
+2020,8,23,Tandie Winckle,Luxilon,Revolution,56,lb,1,Around the world string pattern
+2020,2,5,Friedrich Cometti,Solinco,Tour Bite,50,lb,1,Tighten end strings on both mains and crosses
+2019,12,20,Bartholomeus Wildgoose,Luxilon,Revolution,54,kg,1,Tighten end strings on both mains and crosses
+2020,1,1,Joly Augur,Solinco,Revolution,45,kg,1,Tighten end strings on both mains and crosses
+2020,9,3,Zelda Arden,Solinco,Tour Bite,54,kg,1,Tighten end strings on both mains and crosses
+2019,9,13,Nina Kernar,Yonex,Revolution,52,kg,1,4 knots
+2020,3,20,Norby Waghorne,Wilson,Revolution,54,kg,1,Around the world string pattern
+2019,3,27,Thibaut Klaffs,Luxilon,Tour Bite,57,lb,1,Power pads
+2020,2,28,Erl Perillo,Solinco,Revolution,58,lb,1,Tighten end strings on both mains and crosses
+2020,7,14,Alfonse Bellward,Solinco,Revolution,51,kg,1,Around the world string pattern
+2020,1,22,Row Rraundl,Head,Tour Bite,47,kg,1,Around the world string pattern
+2020,4,25,Muriel Boxe,Solinco,Revolution,55,kg,1,Tighten end strings on both mains and crosses
+2020,9,22,Elfreda Voyce,Solinco,Tour Bite,57,kg,1,Tighten end strings on both mains and crosses
+2020,9,7,Demetrius MacCrosson,Yonex,Revolution,54,lb,1,Tighten end strings on both mains and crosses
+2019,8,21,Carla McLae,Solinco,Tour Bite,50,kg,1,Tighten end strings on both mains and crosses
+2020,8,10,Sibbie De Vuyst,Head,Hawk,51,lb,1,Tighten end strings on both mains and crosses
+2019,6,3,Efren Cavendish,Solinco,Revolution,58,kg,1,2 knots
+2019,7,3,Skippy Krink,Solinco,Revolution,46,lb,1,Tighten end strings on both mains and crosses
+2019,11,8,Clayton Gallear,Luxilon,Revolution,54,kg,1,Tighten end strings on both mains and crosses
+2019,8,15,Rinaldo Yves,Solinco,Tour Bite,47,kg,1,Tighten end strings on both mains and crosses
+2020,11,7,Geri Sture,Solinco,ALU Power,58,kg,1,Tighten end strings on both mains and crosses
+2020,8,2,Vasili Layus,Solinco,Tour Bite,46,kg,1,Power pads
+2020,3,25,Gaby McAteer,Head,Revolution,56,lb,1,Tighten end strings on both mains and crosses
+2020,9,12,Suzie Coudray,Babolat,Revolution,46,kg,1,Tighten end strings on both mains and crosses
+2019,7,10,Evangelin Dobbings,Solinco,Hawk,52,kg,1,Tighten end strings on both mains and crosses
+2019,7,19,Flinn Glazier,Yonex,Tour Bite,50,lb,1,Tighten end strings on both mains and crosses
+2019,3,4,Cozmo Nigh,Solinco,Revolution,50,lb,1,Tighten end strings on both mains and crosses
+2020,2,7,Randy Culpin,Yonex,Revolution,58,lb,1,Around the world string pattern
+2020,2,7,Ardis Finders,Solinco,Hawk,55,kg,1,Power pads
+2020,10,6,Lyon Totterdill,Solinco,Revolution,58,lb,1,Tighten end strings on both mains and crosses
+2020,1,15,Neille Buttery,Head,RPM Power,52,lb,1,Power pads
+2020,10,14,Morganica Capineer,Solinco,Revolution,47,kg,1,2 knots
+2019,11,12,Ches Cosford,Solinco,RPM Blast,46,kg,1,Tighten end strings on both mains and crosses
+2020,1,24,Nora Verrechia,Solinco,ALU Power,51,lb,1,Power pads
+2019,9,24,Wendie Toner,Solinco,Hawk,50,kg,1,Tighten end strings on both mains and crosses
+2020,12,2,Alleen Towse,Yonex,Revolution,56,kg,1,Power pads
+2019,8,8,Owen Clissett,Solinco,ALU Power,57,lb,1,Tighten end strings on both mains and crosses
+2020,1,16,Lona Hedgeley,Head,Revolution,49,lb,1,Tighten end strings on both mains and crosses
+2019,1,27,Deina Detheridge,Yonex,RPM Power,47,kg,1,Around the world string pattern
+2019,12,3,Hettie Hupka,Solinco,Hawk,53,kg,1,Power pads
+2020,10,10,Minni Philipsson,Luxilon,Revolution,54,kg,1,Tighten end strings on both mains and crosses
+2019,6,19,Grier Cutmere,Solinco,Tour Bite,52,lb,1,Power pads
+2019,3,9,Clerissa Mechic,Solinco,Revolution,47,kg,1,Tighten end strings on both mains and crosses
+2019,4,7,Mayer Silley,Solinco,Revolution,52,lb,1,Around the world string pattern
+2020,11,11,Richmond Beecham,Yonex,Hawk,58,kg,1,Power pads
+2020,2,12,Marquita McLagan,Solinco,Revolution,45,kg,1,Tighten end strings on both mains and crosses
+2019,9,22,Brody Halliwell,Yonex,Revolution,49,lb,1,4 knots
+2020,10,18,Janos Cornall,Solinco,Tour Bite,49,lb,1,4 knots
+2019,4,7,Georgena Sugar,Head,Revolution,52,lb,1,Tighten end strings on both mains and crosses
+2019,7,9,Elena Oleshunin,Solinco,Hawk,57,kg,1,4 knots
+2019,4,17,Alethea Holsey,Yonex,Hawk,46,lb,1,Power pads
+2019,7,19,Vin Duigan,Solinco,ALU Power,47,lb,1,Tighten end strings on both mains and crosses
+2020,10,27,Dyna Matyashev,Luxilon,RPM Power,58,kg,1,Tighten end strings on both mains and crosses
+2019,7,28,Veronika Garioch,Head,Tour Bite,45,lb,1,Tighten end strings on both mains and crosses
+2019,9,12,Genvieve Stripling,Solinco,RPM Power,55,lb,1,Tighten end strings on both mains and crosses
+2019,3,28,Jessamine Gass,Solinco,Tour Bite,55,kg,1,Tighten end strings on both mains and crosses
+2020,8,21,Sarine Kelsey,Solinco,Hawk,45,kg,1,Around the world string pattern
+2020,6,9,Alison Kyme,Luxilon,RPM Blast,55,kg,1,Power pads
+2019,1,7,Felecia Hacquel,Yonex,Hawk,50,kg,1,2 knots
+2020,3,9,Quint Bollans,Solinco,Revolution,54,kg,1,4 knots
+2019,11,2,Asia Kennsley,Yonex,Tour Bite,51,lb,1,Power pads
+2019,2,12,Tully Gelly,Yonex,Revolution,58,kg,1,Power pads
+2020,5,8,Baudoin Bisset,Yonex,Tour Bite,47,kg,1,Power pads
+2020,9,8,Umeko Coule,Solinco,Tour Bite,55,kg,1,Tighten end strings on both mains and crosses
+2020,5,19,Neda Pilch,Solinco,Tour Bite,48,lb,1,Around the world string pattern
+2020,1,14,Caddric Smitten,Solinco,Revolution,49,kg,1,Tighten end strings on both mains and crosses
+2020,1,16,Jerry Watkiss,Solinco,Revolution,57,kg,1,Around the world string pattern
+2019,7,21,Bianka Markos,Wilson,Tour Bite,52,lb,1,Power pads
+2020,4,1,Indira Stalman,Luxilon,Revolution,57,lb,1,Tighten end strings on both mains and crosses
+2020,4,15,Adiana Yirrell,Wilson,Revolution,58,lb,1,Power pads
+2019,8,10,Mar Wressell,Yonex,Hawk,53,lb,1,Tighten end strings on both mains and crosses
+2019,3,3,Arlena Simmonds,Yonex,Revolution,46,kg,1,Tighten end strings on both mains and crosses
+2019,3,12,Sean Wadge,Solinco,Revolution,52,kg,1,Around the world string pattern
+2019,1,20,Janella Glackin,Babolat,ALU Power,47,kg,1,Tighten end strings on both mains and crosses
+2019,3,22,Dame Shields,Yonex,Revolution,50,kg,1,Power pads
+2019,12,14,Vinson Loffhead,Solinco,Revolution,57,lb,1,Tighten end strings on both mains and crosses
+2019,11,23,Kare Lorens,Solinco,RPM Blast,52,kg,1,Tighten end strings on both mains and crosses
+2020,11,25,Cordelia Tootell,Wilson,Hawk,53,lb,1,Power pads
+2020,8,20,Evin Harverson,Yonex,Tour Bite,52,lb,1,Power pads
+2020,12,9,Alix Stivers,Head,RPM Power,52,kg,1,2 knots
+2019,6,27,Kimbra Goodlake,Solinco,Tour Bite,55,lb,1,Power pads
+2020,7,7,Michaella Rennicks,Luxilon,ALU Power,51,kg,1,Tighten end strings on both mains and crosses
+2019,3,7,Sheppard de Savery,Head,Revolution,53,kg,1,Power pads
+2020,6,26,Ardelis Sturge,Solinco,Revolution,46,kg,1,Tighten end strings on both mains and crosses
+2019,8,23,Cynthy Wisam,Solinco,Tour Bite,52,kg,1,Tighten end strings on both mains and crosses
+2020,4,3,Sigfrid Curado,Yonex,Revolution,56,lb,1,Tighten end strings on both mains and crosses
+2020,6,14,Rafaellle Cheson,Solinco,ALU Power,58,kg,1,Tighten end strings on both mains and crosses
+2020,8,7,Roy Siney,Yonex,ALU Power,45,lb,1,Tighten end strings on both mains and crosses
+2019,10,10,Chad Kenen,Head,Revolution,56,kg,1,Tighten end strings on both mains and crosses
+2020,7,27,Lorens McGuff,Yonex,Tour Bite,48,lb,1,Tighten end strings on both mains and crosses
+2019,9,6,Eugine Heathwood,Solinco,Hawk,46,lb,1,Tighten end strings on both mains and crosses
+2020,2,14,Nicky Filipputti,Head,Revolution,46,lb,1,Tighten end strings on both mains and crosses
+2020,1,14,Hiram Kisby,Luxilon,Revolution,57,kg,1,Power pads
+2019,2,10,Rosemaria Maciaszczyk,Solinco,Tour Bite,48,kg,1,Tighten end strings on both mains and crosses
+2019,2,20,Pren Paylie,Solinco,ALU Power,55,lb,1,Around the world string pattern
+2020,8,14,Skelly Thorold,Solinco,Revolution,53,kg,1,Tighten end strings on both mains and crosses
+2019,7,24,Terri-jo Maryet,Head,Tour Bite,55,kg,1,4 knots
+2020,6,20,Minda Sunnex,Solinco,Revolution,46,lb,1,Tighten end strings on both mains and crosses
+2019,12,14,Bennie Chown,Solinco,RPM Blast,50,lb,1,Tighten end strings on both mains and crosses
+2020,9,14,Iago Brauner,Head,ALU Power,45,kg,1,Tighten end strings on both mains and crosses
+2019,5,22,Chester Yurmanovev,Babolat,Revolution,49,kg,1,Tighten end strings on both mains and crosses
+2020,5,16,Corie Ewan,Solinco,Hawk,53,lb,1,Tighten end strings on both mains and crosses
+2019,6,12,Richmond Sommerville,Head,Revolution,50,kg,1,Tighten end strings on both mains and crosses
+2019,3,27,Garrick Malthus,Solinco,Revolution,56,lb,1,Tighten end strings on both mains and crosses
+2019,5,7,Tersina MacWhirter,Solinco,Tour Bite,58,kg,1,Tighten end strings on both mains and crosses
+2020,6,5,Raleigh Overstreet,Solinco,Tour Bite,49,lb,1,Tighten end strings on both mains and crosses
+2020,6,1,Felix Longmaid,Yonex,Revolution,49,kg,1,Tighten end strings on both mains and crosses
+2020,1,27,Tudor Marcroft,Solinco,Hawk,56,lb,1,4 knots
+2020,10,14,Rosalie Paler,Luxilon,RPM Power,53,kg,1,2 knots
+2019,7,1,Regina Stittle,Solinco,Revolution,46,kg,1,Tighten end strings on both mains and crosses
+2020,1,26,Nariko Vasyutochkin,Head,Hawk,50,lb,1,4 knots
+2020,4,9,Fields Stirland,Solinco,Revolution,47,lb,1,Power pads
+2019,8,16,Brian Lyston,Head,Tour Bite,51,kg,1,Tighten end strings on both mains and crosses
+2020,10,6,Reyna Lindenstrauss,Solinco,Tour Bite,45,kg,1,Around the world string pattern
+2019,3,17,Javier Achurch,Yonex,Tour Bite,47,kg,1,Tighten end strings on both mains and crosses
+2019,8,27,Joellyn Wooding,Yonex,Revolution,48,kg,1,2 knots
+2020,4,24,Annalee Stannah,Yonex,ALU Power,46,lb,1,Tighten end strings on both mains and crosses
+2019,6,17,Susana Mesias,Solinco,Revolution,53,kg,1,Tighten end strings on both mains and crosses
+2019,9,25,Stevana Haensel,Solinco,Revolution,55,lb,1,Tighten end strings on both mains and crosses
+2020,2,28,Russ Paddy,Solinco,Hawk,53,kg,1,Tighten end strings on both mains and crosses
+2020,5,23,Fowler Blagdon,Solinco,Revolution,45,lb,1,Power pads
+2020,6,14,Mallorie Gillivrie,Solinco,Revolution,58,lb,1,Power pads
+2020,9,7,Barbaraanne Mehaffey,Solinco,Tour Bite,54,lb,1,2 knots
+2019,11,8,Rory Bowton,Solinco,RPM Power,56,kg,1,Tighten end strings on both mains and crosses
+2019,4,13,Bjorn Boschmann,Solinco,Revolution,56,lb,1,Tighten end strings on both mains and crosses
+2020,10,11,Powell Bloxsom,Solinco,Tour Bite,55,lb,1,Tighten end strings on both mains and crosses
+2019,5,3,Tristam Le Noire,Wilson,Revolution,58,lb,1,Power pads
+2020,2,17,Suzette Dumingos,Yonex,Revolution,57,lb,1,4 knots
+2019,3,24,Frazier Sidsaff,Solinco,Revolution,52,lb,1,2 knots
+2019,5,24,Lynda Scrogges,Solinco,Tour Bite,45,kg,1,Tighten end strings on both mains and crosses
+2019,7,4,Sansone Plaschke,Yonex,Hawk,46,lb,1,Tighten end strings on both mains and crosses
+2019,12,22,Jayne Barlace,Solinco,Revolution,57,kg,1,Tighten end strings on both mains and crosses
+2020,11,24,Alleyn Eskell,Yonex,Tour Bite,50,kg,1,Power pads
+2020,11,17,Fara Garmans,Solinco,Tour Bite,53,kg,1,Power pads
+2020,1,13,Cort Panyer,Solinco,NXT,46,lb,1,Tighten end strings on both mains and crosses
+2019,5,23,Flora Withrington,Solinco,RPM Power,53,kg,1,Tighten end strings on both mains and crosses
+2020,9,2,Latrena Tordiffe,Head,RPM Power,55,kg,1,Tighten end strings on both mains and crosses
+2019,6,25,Jerald Headingham,Yonex,Revolution,54,kg,1,Around the world string pattern
+2020,8,15,Doralin Olphert,Luxilon,Tour Bite,58,lb,1,Around the world string pattern
+2019,12,12,Cayla Turmel,Solinco,Revolution,52,lb,1,2 knots
+2019,10,12,Emeline Potteril,Solinco,Tour Bite,58,kg,1,2 knots
+2019,12,24,Marwin Mohan,Solinco,Revolution,49,lb,1,Tighten end strings on both mains and crosses
+2020,6,15,Siward Thurlow,Wilson,Revolution,46,lb,1,Power pads
+2020,7,9,Danica Briddle,Yonex,Tour Bite,50,lb,1,Power pads
+2020,3,7,Ross Cormode,Solinco,ALU Power,49,lb,1,Tighten end strings on both mains and crosses
+2019,3,13,Eli Everson,Solinco,Revolution,53,kg,1,Around the world string pattern
+2020,1,2,Karlik Hallward,Solinco,Revolution,53,lb,1,Power pads
+2020,8,27,Dav Ferreres,Solinco,Tour Bite,57,kg,1,Power pads
+2020,7,22,Gunter Orhtmann,Solinco,Hawk,50,kg,1,2 knots
+2019,12,5,Hayley Langwade,Wilson,Tour Bite,50,kg,1,2 knots
+2019,10,1,Laraine Haggith,Head,Revolution,47,kg,1,Tighten end strings on both mains and crosses
+2020,3,3,Farleigh Baumford,Head,Hawk,51,lb,1,Tighten end strings on both mains and crosses
+2019,1,20,Nealy McNeice,Solinco,Hawk,47,lb,1,Tighten end strings on both mains and crosses
+2020,3,4,Caryl Corke,Yonex,Tour Bite,51,kg,1,Power pads
+2019,4,1,Carola Brun,Yonex,ALU Power,50,kg,1,Tighten end strings on both mains and crosses
+2019,1,12,Torre Bawme,Yonex,Tour Bite,51,lb,1,4 knots
+2019,7,27,Stearne Rowcliffe,Solinco,ALU Power,49,lb,1,Tighten end strings on both mains and crosses
+2019,2,21,Pierson Kleiser,Solinco,ALU Power,48,lb,1,Tighten end strings on both mains and crosses
+2019,8,8,Germain Kinset,Solinco,Hawk,54,lb,1,Power pads
+2020,12,25,Rance Tilbury,Head,Revolution,47,lb,1,Tighten end strings on both mains and crosses
+2019,3,18,Cherri Fransemai,Head,Revolution,48,kg,1,Tighten end strings on both mains and crosses
+2019,2,23,Geno Chalice,Yonex,Tour Bite,53,kg,1,Tighten end strings on both mains and crosses
+2020,1,12,Daryn Houdmont,Solinco,Tour Bite,56,kg,1,Tighten end strings on both mains and crosses
+2020,8,17,Henry Burtwell,Wilson,RPM Power,48,lb,1,Around the world string pattern
+2020,10,2,Eddie Alvaro,Yonex,ALU Power,45,kg,1,Power pads
+2020,9,24,Lorie Von Oertzen,Head,Tour Bite,51,lb,1,Tighten end strings on both mains and crosses
+2019,2,27,Ruthie Sabben,Yonex,Tour Bite,48,kg,1,Power pads
+2019,9,2,Paulie Dudbridge,Solinco,Revolution,46,kg,1,Around the world string pattern
+2019,3,24,King Seifert,Babolat,RPM Power,48,lb,1,2 knots
+2020,10,9,Johny Aisbett,Solinco,Hawk,47,lb,1,Tighten end strings on both mains and crosses
+2020,11,8,Alexandro Sommers,Luxilon,Tour Bite,56,kg,1,Power pads
+2020,3,23,Gard Villar,Solinco,Tour Bite,45,lb,1,2 knots
+2019,3,25,Arlyne Sandry,Solinco,Revolution,46,lb,1,Tighten end strings on both mains and crosses
+2020,11,16,Lefty Banks,Yonex,Tour Bite,50,kg,1,Tighten end strings on both mains and crosses
+2020,5,28,Clarinda Cristofori,Head,Tour Bite,51,kg,1,Tighten end strings on both mains and crosses
+2019,8,16,Fawn Churchley,Yonex,Revolution,45,lb,1,Tighten end strings on both mains and crosses
+2019,12,1,Helen-elizabeth Daldan,Head,Tour Bite,47,lb,1,Power pads
+2019,12,7,Kaycee O'Hare,Solinco,Revolution,53,kg,1,Tighten end strings on both mains and crosses
+2019,3,1,Pandora Jozaitis,Head,Revolution,54,kg,1,Power pads
+2019,9,26,Kirbie Genny,Head,Tour Bite,48,kg,1,Tighten end strings on both mains and crosses
+2019,7,5,Erv Bowmaker,Babolat,Tour Bite,46,kg,1,Power pads
+2020,10,11,Carmelita Tessier,Head,Revolution,45,lb,1,Tighten end strings on both mains and crosses
+2019,4,3,Erda Wreiford,Head,Revolution,57,lb,1,Tighten end strings on both mains and crosses
+2020,5,27,Evangelina Cordel,Solinco,RPM Blast,55,kg,1,Power pads
+2019,2,7,Frieda Lyster,Yonex,Revolution,47,lb,1,Power pads
+2020,1,3,Jerald Waddilove,Solinco,Hawk,58,kg,1,Tighten end strings on both mains and crosses
+2020,7,16,Demetre Palleske,Yonex,ALU Power,51,lb,1,Around the world string pattern
+2020,3,27,Duffy Trowel,Solinco,Revolution,54,kg,1,Around the world string pattern
+2020,7,12,Karola Daventry,Head,Hawk,53,kg,1,Power pads
+2020,2,21,Timmy Sheldrake,Solinco,Tour Bite,54,kg,1,Power pads
+2019,9,9,Loy Knoles,Solinco,Revolution,53,lb,1,Around the world string pattern
+2019,3,2,Agace Moukes,Head,Hawk,55,kg,1,Tighten end strings on both mains and crosses
+2019,3,19,Yasmeen Ghiron,Solinco,Revolution,47,kg,1,Tighten end strings on both mains and crosses
+2019,12,24,Melosa Kingerby,Yonex,Revolution,45,kg,1,Power pads
+2019,11,5,Douglas Bolstridge,Yonex,Revolution,57,kg,1,Power pads
+2020,3,22,Jermaine Josephov,Head,Revolution,47,kg,1,Around the world string pattern
+2020,7,26,Tonya Mompesson,Solinco,Revolution,46,kg,1,Tighten end strings on both mains and crosses
+2019,10,3,Tawnya Calbert,Yonex,NXT,51,lb,1,Around the world string pattern
+2019,11,19,Cindy Caine,Solinco,Revolution,51,kg,1,Tighten end strings on both mains and crosses
+2020,4,4,Edita Jurczyk,Solinco,Revolution,51,kg,1,Tighten end strings on both mains and crosses
+2020,7,25,Cacilie Tuttle,Solinco,ALU Power,51,kg,1,Tighten end strings on both mains and crosses
+2020,5,1,Emile Kobieriecki,Yonex,Revolution,53,lb,1,Power pads
+2019,8,26,Arri Plum,Solinco,ALU Power,48,kg,1,Power pads
+2019,9,27,Barbe Forsdyke,Solinco,Revolution,54,lb,1,Tighten end strings on both mains and crosses
+2019,10,2,Thor Orcott,Head,ALU Power,45,lb,1,Power pads
+2020,2,7,Karissa Somersett,Solinco,Revolution,56,kg,1,2 knots
+2019,6,25,Ramsey Broddle,Yonex,Tour Bite,57,kg,1,Tighten end strings on both mains and crosses
+2019,9,16,Yuri Gerber,Solinco,Tour Bite,48,lb,1,Tighten end strings on both mains and crosses
+2020,7,15,Noreen Smallman,Head,Revolution,53,kg,1,2 knots
+2019,6,23,Crystal Enderby,Solinco,RPM Power,58,kg,1,Tighten end strings on both mains and crosses
+2020,4,17,Jessa Milroy,Yonex,Hawk,53,kg,1,Tighten end strings on both mains and crosses
+2019,5,13,Marcelo Harcourt,Solinco,Revolution,45,lb,1,Tighten end strings on both mains and crosses
+2019,7,18,Ondrea Marner,Solinco,Revolution,49,kg,1,Tighten end strings on both mains and crosses
+2020,10,15,Mignon Maxwale,Solinco,ALU Power,51,lb,1,4 knots
+2019,1,16,Serene Rolland,Solinco,Revolution,52,kg,1,Tighten end strings on both mains and crosses
+2019,3,16,Fredericka Bolstridge,Luxilon,Hawk,50,kg,1,Power pads
+2019,9,13,Lola King,Solinco,Revolution,53,kg,1,Power pads
+2020,2,10,Manuel Haking,Solinco,ALU Power,45,kg,1,Power pads
+2019,2,5,Germana Adolf,Solinco,Hawk,55,kg,1,2 knots
+2020,3,21,Rebbecca Southorn,Wilson,Hawk,56,lb,1,2 knots
+2019,12,17,Kellina Goodrick,Solinco,Revolution,50,kg,1,Around the world string pattern
+2020,4,4,Zebadiah Grayson,Solinco,Revolution,47,lb,1,Tighten end strings on both mains and crosses
+2019,3,12,Rosita Gairdner,Wilson,Tour Bite,54,kg,1,Tighten end strings on both mains and crosses
+2019,10,3,Georas Pillman,Head,Revolution,58,kg,1,Tighten end strings on both mains and crosses
+2020,10,14,Emiline Gimbrett,Solinco,Tour Bite,45,lb,1,Tighten end strings on both mains and crosses
+2019,5,18,Odell Turbill,Solinco,Hawk,48,lb,1,Tighten end strings on both mains and crosses
+2020,7,15,Lizbeth Larvor,Solinco,Revolution,55,lb,1,Tighten end strings on both mains and crosses
+2020,11,5,Waldemar Ivatts,Solinco,Revolution,57,kg,1,Around the world string pattern
+2019,4,12,Max Pawellek,Head,RPM Blast,47,lb,1,2 knots
+2020,12,11,Lorinda Muglestone,Yonex,Tour Bite,51,lb,1,Power pads
+2020,2,11,Riki Mcasparan,Wilson,Revolution,55,kg,1,Around the world string pattern
+2019,3,17,Jorie Gietz,Solinco,Hawk,54,lb,1,Power pads
+2019,4,21,Rolando Tunnadine,Solinco,Tour Bite,45,kg,1,Tighten end strings on both mains and crosses
+2019,5,18,Estella Rubinovici,Solinco,Revolution,51,lb,1,Power pads
+2020,6,23,Alysa Kitman,Yonex,Hawk,56,kg,1,Power pads
+2019,9,14,Rickard Aslam,Solinco,Revolution,56,kg,1,Tighten end strings on both mains and crosses
+2019,5,24,Parke Bourgaize,Yonex,Revolution,54,kg,1,Power pads
+2019,1,6,Gusty Demanche,Solinco,Revolution,55,lb,1,Tighten end strings on both mains and crosses
+2020,7,9,Jarrod Deller,Head,Revolution,56,lb,1,Tighten end strings on both mains and crosses
+2020,8,25,Megen Pile,Yonex,Tour Bite,48,lb,1,Power pads
+2020,6,2,Nikos Casarini,Head,Tour Bite,48,lb,1,Power pads
+2020,9,8,Marabel Muckeen,Babolat,Hawk,54,lb,1,Tighten end strings on both mains and crosses
+2020,12,5,Felice Boland,Solinco,Revolution,45,lb,1,Around the world string pattern
+2019,12,11,Brinna Epple,Yonex,Revolution,48,lb,1,Around the world string pattern
+2020,7,9,Clayton Blanking,Solinco,Tour Bite,51,lb,1,Tighten end strings on both mains and crosses
+2020,12,4,Pierre Goffe,Solinco,Revolution,51,lb,1,4 knots
+2020,8,9,Silva Davidge,Solinco,Tour Bite,58,lb,1,Power pads
+2019,1,21,Sauveur Arniz,Solinco,Revolution,49,kg,1,4 knots
+2019,11,8,Ilysa Covey,Solinco,Revolution,57,lb,1,Power pads
+2020,6,6,Hana Geddes,Head,Revolution,51,lb,1,Around the world string pattern
+2020,10,12,Alta McClary,Solinco,Revolution,49,kg,1,Power pads
+2020,7,5,Mindy Youdell,Yonex,Tour Bite,58,lb,1,2 knots
+2020,5,8,Emily McConaghy,Wilson,Tour Bite,55,kg,1,4 knots
+2019,5,24,Dody Blencowe,Solinco,Tour Bite,54,lb,1,Power pads
+2020,12,27,Sayre Featherbie,Head,Hawk,52,lb,1,Power pads
+2019,2,11,Carolyne Writer,Solinco,Hawk,50,kg,1,2 knots
+2020,3,19,Abbye Dugall,Luxilon,Tour Bite,47,lb,1,Tighten end strings on both mains and crosses
+2019,6,1,Lyn Ferronier,Solinco,Tour Bite,52,lb,1,Tighten end strings on both mains and crosses
+2019,3,20,Wilmer Pearsey,Babolat,Revolution,56,lb,1,Tighten end strings on both mains and crosses
+2019,1,4,Sawyere Demicoli,Yonex,Tour Bite,51,lb,1,Tighten end strings on both mains and crosses
+2019,3,17,Cristen Culy,Yonex,Tour Bite,51,kg,1,4 knots
+2020,5,20,Walliw Fosdick,Babolat,Hawk,57,lb,1,Tighten end strings on both mains and crosses
+2020,12,18,Olga McArley,Solinco,Tour Bite,50,kg,1,Tighten end strings on both mains and crosses
+2020,4,18,Randi Magor,Solinco,Revolution,49,kg,1,Power pads
+2019,2,21,Clementia Maddyson,Solinco,Revolution,55,kg,1,Power pads
+2019,12,6,Obidiah Paye,Solinco,Tour Bite,56,lb,1,Tighten end strings on both mains and crosses
+2020,4,15,Kliment Braam,Yonex,Tour Bite,50,kg,1,Tighten end strings on both mains and crosses
+2020,9,26,Perry Matlock,Yonex,Revolution,50,lb,1,Tighten end strings on both mains and crosses
+2019,5,13,Rafaela Sygroves,Solinco,Tour Bite,58,kg,1,Power pads
+2020,8,1,Shirlene Saby,Yonex,Revolution,50,kg,1,Power pads
+2019,10,26,Lotty Duckinfield,Solinco,ALU Power,49,lb,1,Around the world string pattern
+2020,1,8,Glennis Povah,Solinco,Tour Bite,50,kg,1,Tighten end strings on both mains and crosses
+2020,5,16,Ania Skilbeck,Yonex,Revolution,57,lb,1,Tighten end strings on both mains and crosses
+2019,11,12,Carolyn Bloor,Head,Revolution,55,kg,1,Tighten end strings on both mains and crosses
+2019,1,9,Elsa Larvin,Solinco,Tour Bite,53,lb,1,2 knots
+2020,3,10,Smitty Gelsthorpe,Yonex,Revolution,48,lb,1,Tighten end strings on both mains and crosses
+2020,5,7,Timmy Chesshyre,Head,Revolution,51,lb,1,Power pads
+2020,7,28,Ezri Leupoldt,Yonex,Revolution,58,kg,1,Tighten end strings on both mains and crosses
+2020,6,13,Quinta Reuss,Solinco,Revolution,56,lb,1,2 knots
+2019,7,6,Armstrong Blaver,Yonex,Hawk,55,kg,1,Tighten end strings on both mains and crosses
+2019,7,11,Alva Minci,Solinco,Tour Bite,52,kg,1,Tighten end strings on both mains and crosses
+2020,5,1,Jarib Blanchflower,Solinco,Revolution,47,lb,1,Tighten end strings on both mains and crosses
+2020,12,27,Abbot Kensley,Solinco,ALU Power,56,lb,1,Tighten end strings on both mains and crosses
+2020,8,17,Frederica Hennington,Solinco,Hawk,53,kg,1,Tighten end strings on both mains and crosses
+2019,11,24,Kristina Giacoppo,Solinco,Revolution,58,lb,1,Tighten end strings on both mains and crosses
+2019,10,27,Elvera Brompton,Solinco,Revolution,55,lb,1,Tighten end strings on both mains and crosses
+2019,11,23,Lizabeth Bromet,Head,Revolution,52,lb,1,2 knots
+2020,7,3,Brockie Creeboe,Solinco,Hawk,55,kg,1,Tighten end strings on both mains and crosses
+2020,12,22,Judi Bangley,Yonex,ALU Power,50,lb,1,Around the world string pattern
+2019,8,27,Nickie Stein,Solinco,Revolution,49,lb,1,Tighten end strings on both mains and crosses
+2020,10,27,Gamaliel Antrobus,Yonex,Revolution,50,kg,1,Power pads
+2020,10,23,Davey Pottes,Solinco,Tour Bite,54,kg,1,Power pads
+2019,5,15,Milton Leatt,Luxilon,Tour Bite,53,lb,1,Power pads
+2020,7,19,Neddy Averill,Yonex,Revolution,49,kg,1,Tighten end strings on both mains and crosses
+2019,12,20,Fred Fayre,Solinco,RPM Power,57,lb,1,Tighten end strings on both mains and crosses
+2019,3,16,Willi Abdon,Solinco,Revolution,58,lb,1,Power pads
+2020,2,14,Obediah Coomes,Solinco,Revolution,53,kg,1,Power pads
+2020,6,21,Herminia Riccelli,Solinco,Revolution,52,kg,1,Around the world string pattern
+2019,6,26,Kerrie Wombwell,Solinco,Tour Bite,56,kg,1,2 knots
+2019,12,12,Noelle Surgeon,Solinco,Revolution,45,kg,1,Tighten end strings on both mains and crosses
+2020,11,11,Lanae Norledge,Luxilon,Hawk,47,kg,1,Power pads
+2019,12,6,Janis Cocks,Solinco,Revolution,47,kg,1,Tighten end strings on both mains and crosses
+2020,4,14,Lindsey Askin,Yonex,Tour Bite,57,kg,1,Around the world string pattern
+2020,1,11,Garik Ortzen,Luxilon,Revolution,46,lb,1,Tighten end strings on both mains and crosses
+2019,12,1,Dalia Skittreal,Head,Tour Bite,54,lb,1,Power pads
+2019,11,2,Norrie Bein,Wilson,Revolution,55,kg,1,Tighten end strings on both mains and crosses
+2019,5,26,Zebedee Elven,Solinco,RPM Power,45,lb,1,Around the world string pattern
+2020,2,15,Hill Baldrick,Solinco,Revolution,47,lb,1,Power pads
+2020,4,16,Arabele Asprey,Solinco,Revolution,46,kg,1,Power pads
+2020,11,7,Gayle Treweela,Solinco,Hawk,53,lb,1,Tighten end strings on both mains and crosses
+2019,5,10,Gelya Conelly,Yonex,Revolution,55,lb,1,Power pads
+2019,6,24,Edsel Loveitt,Solinco,NXT,57,kg,1,4 knots
+2020,8,1,Adiana MacDougall,Yonex,RPM Blast,46,kg,1,Tighten end strings on both mains and crosses
+2020,2,12,Margarete Greenalf,Solinco,Tour Bite,56,lb,1,Power pads
+2020,2,16,Fritz Swinerd,Head,Hawk,50,kg,1,Tighten end strings on both mains and crosses
+2020,2,22,Gilbertine Domerc,Yonex,Revolution,47,kg,1,Tighten end strings on both mains and crosses
+2019,1,2,Bessy Lavelle,Solinco,Revolution,50,kg,1,Around the world string pattern
+2020,9,28,Rafaelita McVeagh,Yonex,Revolution,52,lb,1,Tighten end strings on both mains and crosses
+2019,8,12,Fionnula Tree,Yonex,Revolution,55,kg,1,Tighten end strings on both mains and crosses
+2020,6,10,Caritta Nickels,Solinco,Revolution,58,lb,1,Tighten end strings on both mains and crosses
+2020,4,24,Tildi Stutard,Solinco,Hawk,55,kg,1,Tighten end strings on both mains and crosses
+2019,2,3,Olympie Worvell,Solinco,Tour Bite,56,kg,1,Power pads
+2020,1,12,Deonne Versey,Solinco,Revolution,51,kg,1,Around the world string pattern
+2020,9,20,Nicolina Evershed,Solinco,Tour Bite,53,lb,1,Power pads
+2019,8,10,Michael Laxtonne,Yonex,Revolution,45,lb,1,Tighten end strings on both mains and crosses
+2019,3,19,Karrah Winchcombe,Luxilon,Tour Bite,50,kg,1,Tighten end strings on both mains and crosses
+2020,6,3,Maurise Lounds,Yonex,Revolution,57,lb,1,Tighten end strings on both mains and crosses
+2019,6,2,Veronique Bliben,Solinco,Hawk,55,kg,1,Power pads
+2019,1,12,Charyl Grayland,Solinco,Tour Bite,55,kg,1,Tighten end strings on both mains and crosses
+2020,1,10,Angeli MacGille,Babolat,Hawk,47,kg,1,Power pads
+2020,5,13,Maude Tremain,Solinco,Revolution,55,lb,1,Power pads
+2019,11,1,Jim Halfhyde,Solinco,RPM Power,45,kg,1,Power pads
+2019,2,25,Valentine McGuff,Yonex,Revolution,55,kg,1,2 knots
+2020,5,21,Jenine Ericssen,Yonex,Revolution,48,lb,1,Tighten end strings on both mains and crosses
+2020,2,7,Tudor Rounsefull,Solinco,Tour Bite,58,lb,1,Power pads
+2020,7,4,Abbey Mellers,Head,RPM Power,57,kg,1,Power pads
+2019,2,28,Waite Taillard,Solinco,RPM Power,54,kg,1,Tighten end strings on both mains and crosses
+2019,8,1,Cara Sirey,Solinco,Revolution,50,kg,1,2 knots
+2020,6,14,Maddie Bassingham,Solinco,Revolution,46,lb,1,2 knots
+2020,3,7,Matti Halsall,Solinco,Tour Bite,45,kg,1,Power pads
+2019,8,27,Connie Halworth,Solinco,Revolution,55,lb,1,Around the world string pattern
+2019,9,20,Rozanne Cruikshank,Luxilon,Revolution,57,lb,1,Tighten end strings on both mains and crosses
+2019,11,25,Marcelia Antoniazzi,Solinco,Tour Bite,50,lb,1,Tighten end strings on both mains and crosses
+2020,2,26,Gregg Gonzalez,Yonex,Revolution,46,lb,1,Power pads
+2020,9,5,Hyacinthie Shepheard,Yonex,Tour Bite,55,kg,1,Tighten end strings on both mains and crosses
+2020,3,11,Laure Crawcour,Luxilon,Revolution,53,lb,1,Tighten end strings on both mains and crosses
+2020,1,26,Anetta Lyburn,Solinco,Revolution,47,kg,1,Tighten end strings on both mains and crosses
+2019,4,27,Annnora Wycliffe,Yonex,Revolution,54,lb,1,Tighten end strings on both mains and crosses
+2019,1,15,Frederica Bony,Yonex,Tour Bite,46,kg,1,4 knots
+2020,8,26,Kaia Duffit,Solinco,Revolution,45,lb,1,Power pads
+2020,12,13,Leonerd Winkett,Solinco,Revolution,50,lb,1,Power pads
+2020,1,8,Maressa Woolcocks,Solinco,Revolution,51,kg,1,Power pads
+2020,7,19,Auguste Slyford,Solinco,Tour Bite,57,kg,1,Tighten end strings on both mains and crosses
+2019,3,24,Sax Conradie,Yonex,RPM Power,55,lb,1,2 knots
+2020,3,20,Cordy Bonhome,Solinco,Tour Bite,47,lb,1,Power pads
+2019,3,7,Stavros Ferreiro,Wilson,Revolution,57,lb,1,Power pads
+2019,12,13,Bee Reddish,Luxilon,Revolution,46,kg,1,Around the world string pattern
+2019,1,27,Nathanael Schwerin,Solinco,Hawk,45,kg,1,Tighten end strings on both mains and crosses
+2019,12,6,Westleigh Sellack,Solinco,Tour Bite,52,lb,1,Tighten end strings on both mains and crosses
+2019,8,9,Conrad Hargie,Yonex,Revolution,55,kg,1,Tighten end strings on both mains and crosses
+2020,4,23,Cherish Slaght,Solinco,Revolution,50,lb,1,Power pads
+2020,10,20,Aridatha Reding,Yonex,Revolution,58,lb,1,Tighten end strings on both mains and crosses
+2019,11,24,Willetta Moncreiff,Luxilon,Revolution,50,lb,1,Tighten end strings on both mains and crosses
+2019,4,16,Nicolette MacGinley,Solinco,Hawk,52,lb,1,Power pads
+2020,9,22,Ofella Crabb,Solinco,Revolution,57,lb,1,Power pads
+2020,8,1,Dennison Herreros,Solinco,Revolution,51,lb,1,Tighten end strings on both mains and crosses
+2020,6,12,Ferdy Rivel,Solinco,Tour Bite,57,lb,1,Power pads
+2020,2,24,Barbette Guiden,Head,Tour Bite,58,kg,1,Power pads
+2019,3,9,Reginald Bracknall,Solinco,Revolution,57,kg,1,Power pads
+2019,10,22,Chickie Allans,Solinco,Tour Bite,55,kg,1,Tighten end strings on both mains and crosses
+2019,11,18,Wileen Bernollet,Yonex,Hawk,55,lb,1,4 knots
+2019,6,25,Malia La Vigne,Babolat,Tour Bite,54,kg,1,Tighten end strings on both mains and crosses
+2019,11,1,Basilio Cicculi,Solinco,Revolution,55,lb,1,Tighten end strings on both mains and crosses
+2020,5,25,Richmound Crowch,Babolat,Revolution,56,lb,1,4 knots
+2019,12,10,Graig Tatton,Yonex,Tour Bite,47,kg,1,Tighten end strings on both mains and crosses
+2020,8,1,Chaddie Tolumello,Solinco,Revolution,51,kg,1,Around the world string pattern
+2019,12,21,Lek Denisovo,Yonex,Tour Bite,56,lb,1,Tighten end strings on both mains and crosses
+2020,10,11,Sibella Flecknell,Solinco,Tour Bite,48,kg,1,Power pads
+2019,9,16,Koren Ronaghan,Solinco,Revolution,58,lb,1,Tighten end strings on both mains and crosses
+2019,2,10,Ximenez Besset,Solinco,Tour Bite,50,kg,1,Tighten end strings on both mains and crosses
+2020,9,24,Sanders Basini-Gazzi,Solinco,Revolution,53,kg,1,Tighten end strings on both mains and crosses
+2020,8,1,Taffy Milier,Yonex,Hawk,51,kg,1,Power pads
+2019,8,26,Chic Umbers,Wilson,Tour Bite,46,lb,1,Power pads
+2019,5,27,Barbabas Ruecastle,Solinco,Revolution,48,lb,1,Tighten end strings on both mains and crosses
+2019,8,10,Zach Wailes,Solinco,Revolution,57,lb,1,Power pads
+2020,6,13,Danella Pryn,Solinco,Revolution,48,lb,1,2 knots
+2020,12,7,Kacey Acomb,Solinco,Revolution,51,kg,1,Power pads
+2020,11,7,Bartel Tidball,Luxilon,Revolution,46,lb,1,Around the world string pattern
+2019,12,23,Pearle Chasen,Yonex,Revolution,48,lb,1,Power pads
+2019,9,4,Annecorinne Copley,Head,Revolution,51,lb,1,Around the world string pattern
+2019,9,8,Allistir Avison,Solinco,Tour Bite,45,lb,1,Power pads
+2020,4,9,Aveline Cracknall,Solinco,Revolution,51,lb,1,Tighten end strings on both mains and crosses
+2019,9,24,Valerie Lesser,Yonex,Hawk,49,kg,1,Around the world string pattern
+2019,9,13,Elvis Zanioletti,Luxilon,Revolution,48,kg,1,Tighten end strings on both mains and crosses
+2020,8,21,Odelle Ludman,Solinco,Revolution,45,lb,1,2 knots
+2019,10,23,Amalie Ranscomb,Yonex,ALU Power,57,kg,1,Tighten end strings on both mains and crosses
+2019,12,5,Bertie Wrigley,Solinco,ALU Power,52,lb,1,Tighten end strings on both mains and crosses
+2020,11,22,Cristen Minet,Solinco,Revolution,52,lb,1,Tighten end strings on both mains and crosses
+2020,12,2,Cathe Kyffin,Solinco,Revolution,56,kg,1,Tighten end strings on both mains and crosses
+2020,9,28,Granny Hargie,Solinco,RPM Power,47,lb,1,Tighten end strings on both mains and crosses
+2019,1,6,Hildagard Hallen,Head,Revolution,48,lb,1,Tighten end strings on both mains and crosses
+2019,11,20,Rollins Withur,Yonex,Revolution,50,lb,1,Around the world string pattern
+2019,6,23,Leshia Blackman,Solinco,Hawk,55,kg,1,Power pads
+2019,12,19,Joan Strutton,Yonex,Revolution,48,kg,1,4 knots
+2019,8,6,Olia Jerdan,Wilson,ALU Power,56,lb,1,Power pads
+2019,9,9,Quinta Penvarden,Yonex,Revolution,58,lb,1,Tighten end strings on both mains and crosses
+2019,2,7,Kathe Bertlin,Babolat,RPM Blast,51,kg,1,Tighten end strings on both mains and crosses
+2019,1,1,Janetta Kinnock,Luxilon,Revolution,56,kg,1,Power pads
+2019,2,22,Tabbatha Harget,Luxilon,RPM Power,53,lb,1,Power pads
+2020,1,17,Gilly Gabbitas,Head,Tour Bite,45,kg,1,4 knots
+2020,12,1,Steve Shellshear,Solinco,Hawk,56,kg,1,Tighten end strings on both mains and crosses
+2019,6,11,Lorna Vezey,Solinco,Revolution,51,kg,1,2 knots
+2019,7,14,Filide Treske,Head,Revolution,51,kg,1,Around the world string pattern
+2020,1,5,Jamima Glennie,Solinco,Tour Bite,49,kg,1,Tighten end strings on both mains and crosses
+2020,7,22,Rivalee Hudspith,Babolat,Revolution,56,kg,1,Tighten end strings on both mains and crosses
+2020,2,20,Antonetta Swanwick,Solinco,ALU Power,51,kg,1,2 knots
+2019,4,12,Sully Cronchey,Solinco,ALU Power,51,kg,1,Tighten end strings on both mains and crosses
+2020,8,25,Holt Ebanks,Luxilon,Revolution,53,kg,1,Power pads
+2020,3,8,Olva Giscken,Head,Tour Bite,53,kg,1,Tighten end strings on both mains and crosses
+2019,1,1,Tessy Jurczik,Head,ALU Power,55,lb,1,Power pads
+2019,1,8,Dillon Ranson,Solinco,Tour Bite,46,kg,1,4 knots
+2019,9,9,Crin Laimable,Solinco,Tour Bite,55,lb,1,Tighten end strings on both mains and crosses
+2020,8,18,Gardie Pleat,Head,Tour Bite,49,kg,1,Power pads
+2020,5,21,Benjamen Drewson,Solinco,Revolution,58,lb,1,Tighten end strings on both mains and crosses
+2020,11,8,Harlen Joyner,Yonex,Revolution,54,kg,1,Tighten end strings on both mains and crosses
+2020,12,9,Mignon Hatcliffe,Yonex,Tour Bite,47,kg,1,Around the world string pattern
+2020,12,27,Layne Huton,Yonex,Revolution,52,kg,1,Power pads
+2019,1,12,Viola Shorrock,Solinco,Tour Bite,54,lb,1,Tighten end strings on both mains and crosses
+2019,7,6,Brigit De Roeck,Yonex,Tour Bite,46,kg,1,4 knots
+2020,2,5,Bartlet Crosio,Solinco,Hawk,47,lb,1,Tighten end strings on both mains and crosses
+2020,11,10,Cull Tett,Yonex,Revolution,50,kg,1,Tighten end strings on both mains and crosses
+2020,6,20,Ardyce Fibbit,Solinco,Revolution,56,lb,1,Around the world string pattern
+2020,2,24,Adria Surtees,Solinco,Revolution,58,lb,1,Tighten end strings on both mains and crosses
+2019,6,18,Puff Scotchford,Yonex,Revolution,46,lb,1,Tighten end strings on both mains and crosses
+2020,8,25,Marty Waadenburg,Babolat,RPM Power,46,kg,1,Tighten end strings on both mains and crosses
+2019,3,15,Nicky Blades,Solinco,Tour Bite,46,kg,1,Tighten end strings on both mains and crosses
+2020,1,19,Deeann Zanitti,Babolat,Revolution,50,lb,1,2 knots
+2020,5,15,Wendie Arnfield,Wilson,Revolution,58,kg,1,Tighten end strings on both mains and crosses
+2020,12,19,Eliza Enticknap,Solinco,Hawk,45,kg,1,Tighten end strings on both mains and crosses
+2019,12,18,Abba Baude,Solinco,ALU Power,54,kg,1,Power pads
+2020,6,12,Nedi Gullivan,Solinco,Revolution,56,kg,1,Tighten end strings on both mains and crosses
+2019,8,8,Aleta Flew,Babolat,Revolution,51,kg,1,Tighten end strings on both mains and crosses
+2019,12,21,Nora Domotor,Solinco,Hawk,55,lb,1,2 knots
+2019,8,17,Elbert Vondruska,Wilson,Tour Bite,45,lb,1,Power pads
+2020,12,16,Rad Oxford,Solinco,ALU Power,53,lb,1,2 knots
+2020,11,27,Drusie Bartolomeazzi,Head,ALU Power,57,lb,1,4 knots
+2020,9,28,Susy Roadknight,Yonex,Revolution,56,lb,1,Tighten end strings on both mains and crosses
+2019,10,1,Hewitt Sheward,Solinco,Revolution,48,lb,1,Tighten end strings on both mains and crosses
+2019,5,11,Hetti Tribell,Solinco,Revolution,45,lb,1,Tighten end strings on both mains and crosses
+2020,7,13,Carmelita Matteucci,Yonex,Revolution,57,lb,1,Around the world string pattern
+2019,3,4,Daron Beglin,Solinco,Tour Bite,45,lb,1,Tighten end strings on both mains and crosses
+2020,2,7,Elfrida Alejandri,Wilson,ALU Power,57,kg,1,Tighten end strings on both mains and crosses
+2019,4,27,Cilka Stroobant,Yonex,Tour Bite,58,lb,1,Tighten end strings on both mains and crosses
+2020,6,23,Milissent Puddan,Solinco,NXT,54,lb,1,Tighten end strings on both mains and crosses
+2019,5,28,Jonas Evetts,Solinco,Revolution,46,kg,1,Tighten end strings on both mains and crosses
+2020,4,28,Antony Postians,Head,Revolution,49,lb,1,Tighten end strings on both mains and crosses
+2019,4,2,Kore Bluett,Wilson,Tour Bite,45,lb,1,2 knots
+2019,8,7,Perle Romanelli,Solinco,Tour Bite,58,kg,1,Around the world string pattern
+2019,9,3,Quinn Tschirschky,Babolat,ALU Power,58,kg,1,Tighten end strings on both mains and crosses
+2020,1,28,Tabor Webb,Yonex,Revolution,50,kg,1,Tighten end strings on both mains and crosses
+2019,3,12,Pooh Lerwill,Yonex,Revolution,48,lb,1,Tighten end strings on both mains and crosses
+2019,9,22,Dalia Hirjak,Solinco,Hawk,46,lb,1,2 knots
+2019,11,17,Dev Leadstone,Solinco,Revolution,46,lb,1,Tighten end strings on both mains and crosses
+2019,4,14,Alonso Grunbaum,Solinco,Hawk,51,kg,1,Tighten end strings on both mains and crosses
+2019,9,15,Jena Danigel,Yonex,Revolution,52,kg,1,Tighten end strings on both mains and crosses
+2019,3,16,Fredek Arenson,Head,Tour Bite,58,kg,1,Around the world string pattern
+2020,5,15,Gilemette Wilflinger,Head,Revolution,49,kg,2,Around the world string pattern
+2020,2,26,Chip Rogeon,Solinco,Revolution,58,kg,3,Tighten end strings on both mains and crosses
+2019,8,15,Deva Upwood,Yonex,Revolution,49,lb,3,4 knots
+2019,3,19,Jessamine Pitcock,Solinco,Tour Bite,49,kg,1,Tighten end strings on both mains and crosses
+2020,3,15,Estevan Dockray,Yonex,Revolution,49,lb,3,Tighten end strings on both mains and crosses
+2020,12,12,Aurel Cummine,Yonex,ALU Power,48,kg,1,Around the world string pattern
+2020,5,1,Cortney Malshinger,Solinco,Revolution,48,kg,2,Tighten end strings on both mains and crosses
+2019,7,3,Pooh Heenan,Yonex,Revolution,56,kg,3,Around the world string pattern
+2019,3,9,Melissa Palombi,Solinco,Revolution,45,lb,3,2 knots
+2019,12,25,Lyndel Dodgson,Solinco,Revolution,47,kg,1,4 knots
+2020,4,25,Crista Asbury,Yonex,Tour Bite,45,lb,2,Power pads
+2020,2,16,Maryanne Mulvany,Solinco,RPM Power,54,kg,1,Tighten end strings on both mains and crosses
+2019,12,28,Vinni Lackemann,Solinco,Revolution,52,kg,1,Tighten end strings on both mains and crosses
+2019,6,18,Manolo Neave,Solinco,Revolution,50,lb,3,Power pads
+2019,7,15,Giorgio Monteaux,Yonex,Revolution,45,kg,3,Tighten end strings on both mains and crosses
+2019,9,14,Gisele Rupert,Solinco,ALU Power,46,kg,1,4 knots
+2019,1,18,Marie-ann Neylon,Luxilon,RPM Power,57,kg,2,Tighten end strings on both mains and crosses
+2020,1,11,Saxon Morewood,Solinco,Revolution,46,kg,3,Tighten end strings on both mains and crosses
+2019,1,3,Carmelia Karolowski,Solinco,RPM Blast,56,lb,2,Power pads
+2019,5,15,Annabelle Charge,Solinco,RPM Blast,46,kg,3,4 knots
+2020,2,24,Antonina Glencross,Solinco,Tour Bite,53,kg,3,Tighten end strings on both mains and crosses
+2020,2,21,Juieta Melledy,Solinco,Hawk,46,lb,3,Power pads
+2020,3,1,Rinaldo Clilverd,Babolat,Revolution,51,lb,2,Tighten end strings on both mains and crosses
+2019,9,12,Randie Satchel,Solinco,Revolution,47,lb,2,Around the world string pattern
+2019,7,8,Maddi Tenwick,Yonex,Revolution,51,lb,1,Power pads
+2020,2,5,Jocko Boyen,Head,Hawk,52,lb,2,Tighten end strings on both mains and crosses
+2020,2,12,Pierrette Ransley,Solinco,Revolution,46,lb,3,Tighten end strings on both mains and crosses
+2019,12,18,Dinnie Godley,Head,RPM Blast,55,lb,3,Tighten end strings on both mains and crosses
+2019,8,2,Skelly Labba,Solinco,Revolution,55,kg,3,Power pads
+2020,2,23,Nickie Divina,Luxilon,Tour Bite,55,lb,3,Tighten end strings on both mains and crosses
+2020,12,1,Dale Cleaves,Solinco,Revolution,55,lb,1,Around the world string pattern
+2020,3,6,Rickey Piggens,Solinco,Revolution,47,lb,3,Tighten end strings on both mains and crosses
+2020,5,16,Hilly Quoit,Luxilon,Tour Bite,57,kg,3,Tighten end strings on both mains and crosses
+2020,12,18,Yanaton Moir,Solinco,Revolution,50,kg,2,Tighten end strings on both mains and crosses
+2020,7,20,Maryann Awcoate,Solinco,Tour Bite,57,kg,1,Tighten end strings on both mains and crosses
+2019,1,26,Sidoney Diggell,Solinco,Hawk,53,lb,2,Power pads
+2020,11,16,Amaleta Taberner,Solinco,Tour Bite,48,lb,3,Tighten end strings on both mains and crosses
+2019,3,16,Tyson Dugald,Solinco,Revolution,52,kg,3,Tighten end strings on both mains and crosses
+2020,3,19,Louella Martinson,Yonex,Revolution,45,lb,2,Power pads
+2020,2,13,Ibby Muldrew,Yonex,ALU Power,52,kg,2,2 knots
+2020,4,8,Reinald Cockett,Solinco,Hawk,48,kg,1,Tighten end strings on both mains and crosses
+2019,12,3,Lamont Stuck,Solinco,Hawk,46,kg,2,Around the world string pattern
+2020,5,3,Laurence Hughlock,Solinco,ALU Power,50,lb,2,Power pads
+2020,2,26,Kinnie Waistell,Yonex,Revolution,58,kg,3,Power pads
+2019,5,17,Pollyanna Rickhuss,Yonex,Revolution,51,lb,3,Power pads
+2019,1,25,Jose Pestricke,Head,Tour Bite,55,kg,2,Tighten end strings on both mains and crosses
+2019,6,23,Carolan Walisiak,Yonex,Revolution,54,lb,2,Around the world string pattern
+2020,9,4,Alene Sinclaire,Solinco,Tour Bite,49,lb,1,Tighten end strings on both mains and crosses
+2020,8,8,Israel Ham,Yonex,Revolution,54,kg,3,Tighten end strings on both mains and crosses
+2020,3,21,Clevey Kalewe,Wilson,Hawk,50,lb,1,Power pads
+2020,4,14,Goldina Baribal,Head,Revolution,48,kg,3,Tighten end strings on both mains and crosses
+2019,9,26,Julian Slamaker,Solinco,Revolution,50,lb,1,Power pads
+2020,1,14,Odelia Renowden,Head,Revolution,54,kg,3,Power pads
+2020,10,7,Sebastien Priver,Yonex,Tour Bite,54,kg,2,2 knots
+2020,11,3,Loy Pes,Yonex,Revolution,56,kg,1,Tighten end strings on both mains and crosses
+2020,5,12,Herc Auchterlony,Solinco,Revolution,58,kg,3,Around the world string pattern
+2020,11,18,Gunter Charrette,Yonex,Hawk,55,lb,2,Tighten end strings on both mains and crosses
+2019,4,18,Thedrick Lush,Solinco,Revolution,57,kg,3,4 knots
+2019,1,10,Brandy Van de Velde,Solinco,Revolution,50,lb,1,4 knots
+2019,3,12,Marcello Hugnet,Babolat,Hawk,54,lb,3,Power pads
+2019,12,26,Willabella Martinovic,Solinco,Revolution,47,lb,2,Tighten end strings on both mains and crosses
+2019,3,1,Gabriel Finneran,Solinco,Revolution,57,lb,1,Tighten end strings on both mains and crosses
+2020,7,16,Jaye Marzele,Solinco,Tour Bite,55,kg,3,Tighten end strings on both mains and crosses
+2019,7,17,Gordie Suddick,Solinco,Revolution,45,lb,1,Power pads
+2019,8,27,Lenette Cordeau],Yonex,Revolution,57,kg,1,Tighten end strings on both mains and crosses
+2020,9,15,Mandel Cloughton,Yonex,Revolution,58,lb,3,Tighten end strings on both mains and crosses
+2020,3,21,Carolin Huckster,Luxilon,Revolution,52,kg,3,Power pads
+2020,12,19,Hillier Lulham,Luxilon,Revolution,52,lb,3,Tighten end strings on both mains and crosses
+2019,8,18,Chrisy Wauchope,Head,Revolution,53,lb,2,Tighten end strings on both mains and crosses
+2019,12,19,Octavius Hryncewicz,Yonex,Revolution,52,kg,2,Around the world string pattern
+2020,3,14,Emlyn Henke,Yonex,Tour Bite,57,lb,1,Around the world string pattern
+2020,9,26,Lebbie Lourenco,Solinco,Tour Bite,53,lb,2,Tighten end strings on both mains and crosses
+2019,10,22,Barty Citrine,Solinco,Tour Bite,45,lb,2,Tighten end strings on both mains and crosses
+2019,8,22,Teodorico Treker,Solinco,Revolution,53,lb,1,Around the world string pattern
+2020,11,1,Rudiger Wimbury,Solinco,RPM Power,55,kg,3,Tighten end strings on both mains and crosses
+2020,6,28,Bryanty Crookston,Yonex,Tour Bite,49,lb,2,Power pads
+2019,11,4,Rolf Curnnokk,Solinco,Revolution,56,lb,1,Tighten end strings on both mains and crosses
+2020,4,27,Brenn Drakes,Luxilon,Tour Bite,52,kg,3,Around the world string pattern
+2019,9,23,Ambur Reast,Yonex,Revolution,49,lb,3,Tighten end strings on both mains and crosses
+2019,7,8,Miguela Weald,Yonex,ALU Power,57,kg,1,Tighten end strings on both mains and crosses
+2020,9,20,Jen Meir,Yonex,RPM Power,48,kg,1,Power pads
+2019,8,24,Sam Janicki,Head,Tour Bite,57,lb,1,Tighten end strings on both mains and crosses
+2019,9,1,Wendeline Sivell,Head,Tour Bite,46,lb,1,Around the world string pattern
+2019,5,2,Gilemette Lafond,Solinco,Revolution,49,lb,2,Tighten end strings on both mains and crosses
+2019,2,5,Lothario Rainy,Solinco,ALU Power,54,kg,1,Around the world string pattern
+2019,12,17,Janella Bolstridge,Solinco,Revolution,53,lb,1,2 knots
+2019,5,25,Zahara Grzelak,Solinco,Tour Bite,45,lb,2,Tighten end strings on both mains and crosses
+2019,3,23,Yorke Cockill,Solinco,Revolution,48,kg,1,Tighten end strings on both mains and crosses
+2020,3,1,Libbey Siflet,Head,ALU Power,49,kg,3,Tighten end strings on both mains and crosses
+2019,10,11,Lefty Darwen,Solinco,ALU Power,50,kg,3,Tighten end strings on both mains and crosses
+2020,5,28,Berti Mowen,Yonex,Revolution,58,kg,3,Power pads
+2019,3,8,Kristal Lowson,Head,Revolution,47,lb,1,Around the world string pattern
+2019,8,10,Kirk Hardistry,Wilson,Hawk,45,kg,1,Tighten end strings on both mains and crosses
+2019,11,24,Carlen Ratt,Solinco,Tour Bite,56,kg,1,Tighten end strings on both mains and crosses
+2020,11,5,Britte Boich,Solinco,Revolution,49,lb,1,Tighten end strings on both mains and crosses
+2020,11,18,Minnie Keuneke,Wilson,Hawk,54,kg,2,2 knots
+2020,8,27,Haydon Akast,Head,Tour Bite,45,lb,1,Tighten end strings on both mains and crosses
+2020,6,5,Trumaine Selborne,Yonex,Tour Bite,57,lb,3,4 knots
+2020,3,25,Kerrill Klemz,Solinco,Revolution,50,lb,2,Around the world string pattern
+2019,11,28,Jenda Rickford,Wilson,Revolution,55,kg,2,Power pads

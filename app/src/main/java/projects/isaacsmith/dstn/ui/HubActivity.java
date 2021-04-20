@@ -36,6 +36,8 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import org.apache.commons.lang3.text.WordUtils;
 
+import java.io.File;
+import java.io.IOException;
 import java.time.LocalDate;
 import java.time.Month;
 import java.util.ArrayList;
@@ -82,6 +84,11 @@ public class HubActivity extends AppCompatActivity implements ListItemClickListe
         titleView.setText(R.string.stringing_hub);
 
         racquets = mHubPresenter.getRacquets();
+        try {
+            mHubPresenter.addRacquetsFromFile(getResources().getAssets().open("mock-data.txt"));
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
         // Date Button
         customDateButton = (Button)findViewById(R.id.hub_date_button);
 
@@ -99,7 +106,7 @@ public class HubActivity extends AppCompatActivity implements ListItemClickListe
         });
         selection = 0;
         // ---- Setup Date Spinners ----
-        String[] dates = {"All", "Today", "This Week", "This Month", "This Year", "From Custom Date"};
+        String[] dates = {"Today", "This Week", "This Month", "This Year", "All Time", "From Custom Date"};
         ArrayAdapter dateSpinnerAdapter = new ArrayAdapter<>(this, R.layout.spinner_item_selected, dates);
         dateSpinnerAdapter.setDropDownViewResource(R.layout.spinner_dropdown_item);
         dateSpinner = (CustomSpinner) findViewById(R.id.date_spinner);
@@ -117,23 +124,23 @@ public class HubActivity extends AppCompatActivity implements ListItemClickListe
             public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
                 if (l == 0) {
                     date = LocalDate.now();
-                    all = true;
-                    customDateButton.setText("Custom Date");
-                } else if (l == 1) {
-                    date = LocalDate.now();
                     all = false;
                     customDateButton.setText("Custom Date");
-                } else if (l == 2) {
+                } else if (l == 1) {
                     date = LocalDate.now().minusWeeks(1);
                     all = false;
                     customDateButton.setText("Custom Date");
-                } else if (l == 3) {
+                } else if (l == 2) {
                     date = LocalDate.now().minusMonths(1);
                     all = false;
                     customDateButton.setText("Custom Date");
-                } else if (l == 4) {
+                } else if (l == 3) {
                     date = LocalDate.now().minusYears(1);
                     all = false;
+                    customDateButton.setText("Custom Date");
+                } else if (l == 4) {
+                    date = LocalDate.now();
+                    all = true;
                     customDateButton.setText("Custom Date");
                 } else if (l == 5) {
                     date = LocalDate.now().minusYears(100000);

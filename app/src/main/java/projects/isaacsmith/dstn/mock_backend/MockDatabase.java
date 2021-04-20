@@ -4,6 +4,8 @@ import android.os.Build;
 
 import androidx.annotation.RequiresApi;
 
+import java.io.File;
+import java.io.InputStream;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Collections;
@@ -12,6 +14,7 @@ import java.util.UUID;
 import projects.isaacsmith.dstn.RacquetListUtils;
 import projects.isaacsmith.dstn.model.Racquet;
 import projects.isaacsmith.dstn.model.Section;
+import projects.isaacsmith.dstn.util.DummyDataParser;
 
 public class MockDatabase {
     private static MockDatabase instance;
@@ -152,9 +155,13 @@ public class MockDatabase {
         for (Racquet r : racquets) {
             names.add(r.clientName);
         }
-
     }
 
+    @RequiresApi(api = Build.VERSION_CODES.O)
+    public void addRacquetsFromFile(InputStream input) {
+        ArrayList<Racquet> fileRacquets = DummyDataParser.getDummyDataFromFile(input);
+        racquets.addAll(fileRacquets);
+    }
     public int getRacquetTotal() {
         return racquetTotal;
     }
