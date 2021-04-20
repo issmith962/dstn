@@ -29,11 +29,14 @@
                 android:layout_gravity="center_horizontal"
                 android:text="@string/stringing_hub"
                 android:textColor="@color/white" />
-
+<!--            <Button-->
+<!--                android:id="@+id/export_button"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_gravity="right"-->
+<!--                android:text="@string/export"-->
+<!--                android:textColor="@color/light_grey"-->
+<!--                app:backgroundTint="@color/red" />-->
         </androidx.appcompat.widget.Toolbar>
-
     </com.google.android.material.appbar.AppBarLayout>
-
-
-
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

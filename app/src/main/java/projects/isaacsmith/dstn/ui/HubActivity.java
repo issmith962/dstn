@@ -7,6 +7,7 @@ import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;
 import android.view.LayoutInflater;
+import android.view.Menu;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
@@ -153,19 +154,6 @@ public class HubActivity extends AppCompatActivity implements ListItemClickListe
 
             }
         });
-//        ArrayAdapter yearSpinnerAdapter = new ArrayAdapter<>(this, R.layout.spinner_item_selected, years);
-//        yearSpinnerAdapter.setDropDownViewResource(R.layout.spinner_dropdown_item);
-//        final CustomSpinner yearSpinner = (CustomSpinner) findViewById(R.id.year_spinner);
-//        yearSpinner.setAdapter(yearSpinnerAdapter);
-//        yearSpinner.setSpinnerEventsListener(new CustomSpinner.OnSpinnerEventsListener() {
-//            public void onSpinnerOpened() {
-//                yearSpinner.setSelected(true);
-//            }
-//            public void onSpinnerClosed() {
-//                yearSpinner.setSelected(false);
-//            }
-//        });
-
 
         // ---- Setup racquet totals ----
         clientTotal = findViewById(R.id.client_total);
@@ -199,6 +187,11 @@ public class HubActivity extends AppCompatActivity implements ListItemClickListe
         clientTotal.setText(Integer.toString(RacquetListUtils.getClientTotal(racquets)));
     }
 
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        getMenuInflater().inflate(R.menu.menu_main, menu);
+        return true;
+    }
 
     @RequiresApi(api = Build.VERSION_CODES.O)
     @Override
