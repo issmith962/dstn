@@ -15,6 +15,7 @@
         <item name="android:buttonStyle">@style/RobotoButtonStyle</item>
         <item name="textInputStyle">@style/TextAppearance.App.TextInputLayout</item>
 
+        <item name="android:dropDownListViewStyle">@style/SpinnerStyle</item>
     </style>
 
     <style name="TextAppearance.App.TextInputLayout" parent="@android:style/TextAppearance">
@@ -35,6 +36,12 @@
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
+
+    <style name="SpinnerStyle" parent="Widget.AppCompat.ListView.DropDown">
+        <item name="android:divider">@color/medium_grey_25</item>
+        <item name="android:dividerHeight">0.5dp</item>
+    </style>
+
 
     <style name="Theme.Dstn.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
