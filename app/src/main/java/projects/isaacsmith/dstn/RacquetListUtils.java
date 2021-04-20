@@ -17,9 +17,7 @@ import projects.isaacsmith.dstn.model.StrungRacquet;
 
 public class RacquetListUtils {
     public static ArrayList<Section> splitRacquetsByDate(ArrayList<Racquet> racquets) {
-        ArrayList<Racquet> sortedRacquets = new ArrayList<>(racquets);
-        Collections.sort(sortedRacquets);
-        Collections.reverse(sortedRacquets);
+        ArrayList<Racquet> sortedRacquets = sortByDate(racquets);
         LocalDate prevDate = null;
         StrungRacquet prevRacquet = null;
         int section = 0;
@@ -43,13 +41,26 @@ public class RacquetListUtils {
         }
         return result;
     }
+
+    public static ArrayList<Racquet> sortByDate(ArrayList<Racquet> racquets) {
+        ArrayList<Racquet> sortedRacquets = new ArrayList<>(racquets);
+        Collections.sort(sortedRacquets);
+        Collections.reverse(sortedRacquets);
+        return sortedRacquets;
+    }
+
     public static ArrayList<Racquet> suggestionize(String nameSoFar, ArrayList<Racquet> racquets) {
+        ArrayList<String> foundNames = new ArrayList<>();
+        ArrayList<Racquet> unsortedRacquets = sortByDate(racquets);
         ArrayList<Racquet> matchingRacquets = new ArrayList<>();
         for (Racquet r : racquets) {
-            String[] fullName = r.clientName.split(" ");
-            for (String name : fullName) {
-                if (name.toLowerCase().startsWith(nameSoFar.toLowerCase())) {
-                    matchingRacquets.add(r);
+            if (!foundNames.contains(r.clientName)) {
+                String[] fullName = r.clientName.split(" ");
+                for (String name : fullName) {
+                    if (name.toLowerCase().startsWith(nameSoFar.toLowerCase())) {
+                        foundNames.add(r.clientName);
+                        matchingRacquets.add(r);
+                    }
                 }
             }
         }

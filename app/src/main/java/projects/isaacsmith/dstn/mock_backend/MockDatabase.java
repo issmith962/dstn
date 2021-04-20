@@ -86,7 +86,7 @@ public class MockDatabase {
 
         racquets = new ArrayList<>();
 
-        Racquet r0 = new Racquet(UUID.randomUUID(), LocalDate.of(2021, 4, 10), "Isaac Smith", "Babolat", "RPM", "54", "lb", "2", "4 knots");
+        Racquet r0 = new Racquet(UUID.randomUUID(), LocalDate.of(2021, 4, 10), "Isaac Smith", "Babolat", "RPM", "50", "lb", "2", "4 knots");
         Racquet r1 = new Racquet(UUID.randomUUID(), LocalDate.of(2020, 10, 1), "Harry Smith", "Wilson", "NXT", "49", "lb", "1", "");
         Racquet r2 = new Racquet(UUID.randomUUID(), LocalDate.of(2019, 11, 13), "John Smith", "Solinco", "Tour Bite", "54", "lb", "3", "");
         Racquet r3 = new Racquet(UUID.randomUUID(), LocalDate.of(2020, 12, 12), "Tim Smith", "Babolat", "RPM", "44", "lb", "1", "");
